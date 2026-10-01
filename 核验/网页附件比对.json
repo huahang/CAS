@@ -1,0 +1,1172 @@
+[
+  {
+    "path": "准则/企业会计准则——基本准则(2006年版).md",
+    "attachment": "附件/企业会计准则——基本准则(2006年版).doc",
+    "attachment_chars": 3646,
+    "mirror_chars": 3646,
+    "ratio": 0.99918,
+    "differences": [
+      {
+        "op": "replace",
+        "attachment": "作",
+        "mirror": "做"
+      },
+      {
+        "op": "replace",
+        "attachment": "作",
+        "mirror": "做"
+      },
+      {
+        "op": "replace",
+        "attachment": ",",
+        "mirror": "，"
+      }
+    ],
+    "result": "存在差异, 所选官网网页为镜像依据, 原附件另存",
+    "处理": "保持镜像与所选官网网页逐字一致, 未合并改写两种来源"
+  },
+  {
+    "path": "准则/企业会计准则第1号——存货(2006年版).md",
+    "attachment": "附件/企业会计准则第1号——存货(2006年版).pdf",
+    "attachment_chars": 1984,
+    "mirror_chars": 1984,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第2号——长期股权投资(2006年版).md",
+    "attachment": "附件/企业会计准则第2号——长期股权投资(2006年版).pdf",
+    "attachment_chars": 2923,
+    "mirror_chars": 2923,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第2号——长期股权投资(2014年版).md",
+    "attachment": "附件/企业会计准则第2号——长期股权投资(2014年版).doc",
+    "attachment_chars": 4088,
+    "mirror_chars": 4081,
+    "ratio": 0.99914,
+    "differences": [
+      {
+        "op": "delete",
+        "attachment": "一揽子交易处理",
+        "mirror": ""
+      }
+    ],
+    "result": "Word提取在第七条前多出文字, 镜像以官网网页为依据, 原件另存",
+    "处理": "保持镜像与所选官网网页逐字一致, 未合并改写两种来源"
+  },
+  {
+    "path": "准则/企业会计准则第3号——投资性房地产(2006年版).md",
+    "attachment": "附件/企业会计准则第3号——投资性房地产(2006年版).pdf",
+    "attachment_chars": 1816,
+    "mirror_chars": 1816,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第4号——固定资产(2006年版).md",
+    "attachment": "附件/企业会计准则第4号——固定资产(2006年版).pdf",
+    "attachment_chars": 2281,
+    "mirror_chars": 2281,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第5号——生物资产(2006年版).md",
+    "attachment": "附件/企业会计准则第5号——生物资产(2006年版).pdf",
+    "attachment_chars": 3129,
+    "mirror_chars": 3129,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第6号——无形资产(2006年版).md",
+    "attachment": "附件/企业会计准则第6号——无形资产(2006年版).pdf",
+    "attachment_chars": 2524,
+    "mirror_chars": 2524,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第7号——非货币性资产交换(2006年版).md",
+    "attachment": "附件/企业会计准则第7号——非货币性资产交换(2006年版).pdf",
+    "attachment_chars": 1356,
+    "mirror_chars": 1356,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第7号——非货币性资产交换(2019年版).md",
+    "attachment": "附件/企业会计准则第7号——非货币性资产交换(2019年版).pdf",
+    "attachment_chars": 3271,
+    "mirror_chars": 3271,
+    "ratio": 0.99939,
+    "differences": [
+      {
+        "op": "replace",
+        "attachment": "﹝",
+        "mirror": "〔"
+      },
+      {
+        "op": "replace",
+        "attachment": "﹞",
+        "mirror": "〕"
+      }
+    ],
+    "result": "存在差异, 所选官网网页为镜像依据, 原附件另存",
+    "处理": "保持镜像与所选官网网页逐字一致, 未合并改写两种来源"
+  },
+  {
+    "path": "准则/企业会计准则第8号——资产减值(2006年版).md",
+    "attachment": "附件/企业会计准则第8号——资产减值(2006年版).pdf",
+    "attachment_chars": 6654,
+    "mirror_chars": 6654,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第9号——职工薪酬(2006年版).md",
+    "attachment": "附件/企业会计准则第9号——职工薪酬(2006年版).pdf",
+    "attachment_chars": 1130,
+    "mirror_chars": 1130,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第9号——职工薪酬(2014年版).md",
+    "attachment": "附件/企业会计准则第9号——职工薪酬(2014年版).pdf",
+    "attachment_chars": 5035,
+    "mirror_chars": 5035,
+    "ratio": 0.9998,
+    "differences": [
+      {
+        "op": "replace",
+        "attachment": ".",
+        "mirror": "．"
+      }
+    ],
+    "result": "存在差异, 所选官网网页为镜像依据, 原附件另存",
+    "处理": "保持镜像与所选官网网页逐字一致, 未合并改写两种来源"
+  },
+  {
+    "path": "准则/企业会计准则第10号——企业年金基金(2006年版).md",
+    "attachment": "附件/企业会计准则第10号——企业年金基金(2006年版).pdf",
+    "attachment_chars": 2392,
+    "mirror_chars": 2392,
+    "ratio": 0.99958,
+    "differences": [
+      {
+        "op": "replace",
+        "attachment": ":",
+        "mirror": "："
+      }
+    ],
+    "result": "存在差异, 所选官网网页为镜像依据, 原附件另存",
+    "处理": "保持镜像与所选官网网页逐字一致, 未合并改写两种来源"
+  },
+  {
+    "path": "准则/企业会计准则第11号——股份支付(2006年版).md",
+    "attachment": "附件/企业会计准则第11号——股份支付(2006年版).pdf",
+    "attachment_chars": 1800,
+    "mirror_chars": 1800,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第12号——债务重组(2006年版).md",
+    "attachment": "附件/企业会计准则第12号——债务重组(2006年版).pdf",
+    "attachment_chars": 1715,
+    "mirror_chars": 1715,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第12号——债务重组(2019年版).md",
+    "attachment": "附件/企业会计准则第12号——债务重组(2019年版).pdf",
+    "attachment_chars": 2309,
+    "mirror_chars": 2309,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第13号——或有事项(2006年版).md",
+    "attachment": "附件/企业会计准则第13号——或有事项(2006年版).pdf",
+    "attachment_chars": 1649,
+    "mirror_chars": 1649,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第14号——收入(2006年版).md",
+    "attachment": "附件/企业会计准则第14号——收入(2006年版).pdf",
+    "attachment_chars": 2021,
+    "mirror_chars": 2021,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第14号——收入(2017年版).md",
+    "attachment": "附件/企业会计准则第14号——收入(2017年版).pdf",
+    "attachment_chars": 10640,
+    "mirror_chars": 10640,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第15号——建造合同(2006年版).md",
+    "attachment": "附件/企业会计准则第15号——建造合同(2006年版).pdf",
+    "attachment_chars": 2387,
+    "mirror_chars": 2387,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第16号——政府补助(2006年版).md",
+    "attachment": "附件/企业会计准则第16号——政府补助(2006年版).pdf",
+    "attachment_chars": 771,
+    "mirror_chars": 771,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第16号——政府补助(2017年版).md",
+    "attachment": "附件/企业会计准则第16号——政府补助(2017年版).pdf",
+    "attachment_chars": 1926,
+    "mirror_chars": 1926,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第17号——借款费用(2006年版).md",
+    "attachment": "附件/企业会计准则第17号——借款费用(2006年版).pdf",
+    "attachment_chars": 1993,
+    "mirror_chars": 1993,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第18号——所得税(2006年版).md",
+    "attachment": "附件/企业会计准则第18号——所得税(2006年版).pdf",
+    "attachment_chars": 2302,
+    "mirror_chars": 2302,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第19号——外币折算(2006年版).md",
+    "attachment": "附件/企业会计准则第19号——外币折算(2006年版).pdf",
+    "attachment_chars": 1979,
+    "mirror_chars": 1979,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第20号——企业合并(2006年版).md",
+    "attachment": "附件/企业会计准则第20号——企业合并(2006年版).pdf",
+    "attachment_chars": 3283,
+    "mirror_chars": 3283,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第21号——租赁(2006年版).md",
+    "attachment": "附件/企业会计准则第21号——租赁(2006年版).pdf",
+    "attachment_chars": 3556,
+    "mirror_chars": 3556,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第21号——租赁(2018年版).md",
+    "attachment": "附件/企业会计准则第21号——租赁(2018年版).doc",
+    "attachment_chars": 11423,
+    "mirror_chars": 11471,
+    "ratio": 0.99764,
+    "differences": [
+      {
+        "op": "delete",
+        "attachment": "附件：",
+        "mirror": ""
+      },
+      {
+        "op": "insert",
+        "attachment": "",
+        "mirror": "第一章"
+      },
+      {
+        "op": "insert",
+        "attachment": "",
+        "mirror": "第二章"
+      },
+      {
+        "op": "insert",
+        "attachment": "",
+        "mirror": "第一节"
+      },
+      {
+        "op": "insert",
+        "attachment": "",
+        "mirror": "（一）"
+      },
+      {
+        "op": "insert",
+        "attachment": "",
+        "mirror": "（二）"
+      },
+      {
+        "op": "insert",
+        "attachment": "",
+        "mirror": "第二节"
+      },
+      {
+        "op": "insert",
+        "attachment": "",
+        "mirror": "第三章"
+      },
+      {
+        "op": "insert",
+        "attachment": "",
+        "mirror": "第一节"
+      },
+      {
+        "op": "insert",
+        "attachment": "",
+        "mirror": "第二节"
+      },
+      {
+        "op": "insert",
+        "attachment": "",
+        "mirror": "第三节"
+      },
+      {
+        "op": "insert",
+        "attachment": "",
+        "mirror": "第四章"
+      },
+      {
+        "op": "insert",
+        "attachment": "",
+        "mirror": "第五章"
+      },
+      {
+        "op": "insert",
+        "attachment": "",
+        "mirror": "第六章"
+      },
+      {
+        "op": "insert",
+        "attachment": "",
+        "mirror": "第七章"
+      },
+      {
+        "op": "insert",
+        "attachment": "",
+        "mirror": "（一）"
+      },
+      {
+        "op": "insert",
+        "attachment": "",
+        "mirror": "（二）"
+      },
+      {
+        "op": "insert",
+        "attachment": "",
+        "mirror": "第八章"
+      }
+    ],
+    "result": "Word文字提取未包含自动编号, 镜像以官网网页完整编号为依据",
+    "处理": "保持镜像与所选官网网页逐字一致, 未合并改写两种来源"
+  },
+  {
+    "path": "准则/企业会计准则第22号——金融工具确认和计量(2006年版).md",
+    "attachment": "附件/企业会计准则第22号——金融工具确认和计量(2006年版).pdf",
+    "attachment_chars": 11296,
+    "mirror_chars": 11296,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第22号——金融工具确认和计量(2017年版).md",
+    "attachment": "附件/企业会计准则第22号——金融工具确认和计量(2017年版).pdf",
+    "attachment_chars": 19573,
+    "mirror_chars": 19553,
+    "ratio": 0.99704,
+    "differences": [
+      {
+        "op": "delete",
+        "attachment": "（或合并日）",
+        "mirror": ""
+      },
+      {
+        "op": "delete",
+        "attachment": "，",
+        "mirror": ""
+      },
+      {
+        "op": "delete",
+        "attachment": "会计",
+        "mirror": ""
+      },
+      {
+        "op": "insert",
+        "attachment": "",
+        "mirror": "相关的"
+      },
+      {
+        "op": "delete",
+        "attachment": "相关会计",
+        "mirror": ""
+      },
+      {
+        "op": "delete",
+        "attachment": "会计",
+        "mirror": ""
+      },
+      {
+        "op": "delete",
+        "attachment": "会计",
+        "mirror": ""
+      },
+      {
+        "op": "delete",
+        "attachment": "会计",
+        "mirror": ""
+      },
+      {
+        "op": "delete",
+        "attachment": "会计",
+        "mirror": ""
+      },
+      {
+        "op": "delete",
+        "attachment": "，",
+        "mirror": ""
+      },
+      {
+        "op": "replace",
+        "attachment": "和",
+        "mirror": "或"
+      },
+      {
+        "op": "replace",
+        "attachment": "而",
+        "mirror": "由此"
+      },
+      {
+        "op": "insert",
+        "attachment": "",
+        "mirror": "的"
+      },
+      {
+        "op": "replace",
+        "attachment": "还款",
+        "mirror": "偿付"
+      },
+      {
+        "op": "replace",
+        "attachment": "还款",
+        "mirror": "偿付"
+      },
+      {
+        "op": "replace",
+        "attachment": "还款",
+        "mirror": "偿付"
+      },
+      {
+        "op": "delete",
+        "attachment": "业",
+        "mirror": ""
+      },
+      {
+        "op": "replace",
+        "attachment": "评价",
+        "mirror": "效考核"
+      },
+      {
+        "op": "insert",
+        "attachment": "",
+        "mirror": "偿"
+      },
+      {
+        "op": "replace",
+        "attachment": "款",
+        "mirror": "选择"
+      },
+      {
+        "op": "insert",
+        "attachment": "",
+        "mirror": "偿"
+      },
+      {
+        "op": "replace",
+        "attachment": "款",
+        "mirror": "选择"
+      },
+      {
+        "op": "delete",
+        "attachment": "以",
+        "mirror": ""
+      },
+      {
+        "op": "replace",
+        "attachment": "按",
+        "mirror": "根据"
+      },
+      {
+        "op": "delete",
+        "attachment": "规定的重新",
+        "mirror": ""
+      },
+      {
+        "op": "insert",
+        "attachment": "",
+        "mirror": "修正后"
+      },
+      {
+        "op": "insert",
+        "attachment": "",
+        "mirror": "利得或"
+      },
+      {
+        "op": "delete",
+        "attachment": "或利得",
+        "mirror": ""
+      },
+      {
+        "op": "delete",
+        "attachment": "即便",
+        "mirror": ""
+      },
+      {
+        "op": "replace",
+        "attachment": "存在",
+        "mirror": "的"
+      },
+      {
+        "op": "insert",
+        "attachment": "",
+        "mirror": "可能"
+      },
+      {
+        "op": "delete",
+        "attachment": "一定",
+        "mirror": ""
+      },
+      {
+        "op": "delete",
+        "attachment": "有关",
+        "mirror": ""
+      },
+      {
+        "op": "insert",
+        "attachment": "",
+        "mirror": "利得或"
+      },
+      {
+        "op": "delete",
+        "attachment": "或利得",
+        "mirror": ""
+      },
+      {
+        "op": "insert",
+        "attachment": "",
+        "mirror": "利得或"
+      },
+      {
+        "op": "delete",
+        "attachment": "或利得",
+        "mirror": ""
+      },
+      {
+        "op": "replace",
+        "attachment": "还款",
+        "mirror": "偿付"
+      },
+      {
+        "op": "replace",
+        "attachment": "还款",
+        "mirror": "偿付"
+      },
+      {
+        "op": "replace",
+        "attachment": "还款",
+        "mirror": "偿付"
+      },
+      {
+        "op": "delete",
+        "attachment": "定",
+        "mirror": ""
+      },
+      {
+        "op": "insert",
+        "attachment": "",
+        "mirror": "将"
+      },
+      {
+        "op": "delete",
+        "attachment": "超过",
+        "mirror": ""
+      },
+      {
+        "op": "insert",
+        "attachment": "",
+        "mirror": "以上"
+      }
+    ],
+    "result": "存在差异, 所选官网网页为镜像依据, 原附件另存",
+    "处理": "保持镜像与所选官网网页逐字一致, 未合并改写两种来源"
+  },
+  {
+    "path": "准则/企业会计准则第23号——金融资产转移(2006年版).md",
+    "attachment": "附件/企业会计准则第23号——金融资产转移(2006年版).pdf",
+    "attachment_chars": 4507,
+    "mirror_chars": 4507,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第23号——金融资产转移(2017年版).md",
+    "attachment": "附件/企业会计准则第23号——金融资产转移(2017年版).pdf",
+    "attachment_chars": 7727,
+    "mirror_chars": 7726,
+    "ratio": 0.99942,
+    "differences": [
+      {
+        "op": "delete",
+        "attachment": "下相应",
+        "mirror": ""
+      },
+      {
+        "op": "insert",
+        "attachment": "",
+        "mirror": "合理"
+      },
+      {
+        "op": "insert",
+        "attachment": "",
+        "mirror": "进行"
+      },
+      {
+        "op": "delete",
+        "attachment": "进行",
+        "mirror": ""
+      }
+    ],
+    "result": "存在差异, 所选官网网页为镜像依据, 原附件另存",
+    "处理": "保持镜像与所选官网网页逐字一致, 未合并改写两种来源"
+  },
+  {
+    "path": "准则/企业会计准则第24号——套期保值(2006年版).md",
+    "attachment": "附件/企业会计准则第24号——套期保值(2006年版).pdf",
+    "attachment_chars": 5230,
+    "mirror_chars": 5230,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第24号——套期会计(2017年版).md",
+    "attachment": "附件/企业会计准则第24号——套期会计(2017年版).pdf",
+    "attachment_chars": 9950,
+    "mirror_chars": 9951,
+    "ratio": 0.99613,
+    "differences": [
+      {
+        "op": "insert",
+        "attachment": "",
+        "mirror": "以"
+      },
+      {
+        "op": "delete",
+        "attachment": "列",
+        "mirror": ""
+      },
+      {
+        "op": "insert",
+        "attachment": "",
+        "mirror": "以"
+      },
+      {
+        "op": "delete",
+        "attachment": "列",
+        "mirror": ""
+      },
+      {
+        "op": "insert",
+        "attachment": "",
+        "mirror": "基于其他目的对被套期项目或套期工具所指定的数量进行调整"
+      },
+      {
+        "op": "delete",
+        "attachment": "非交易性",
+        "mirror": ""
+      },
+      {
+        "op": "insert",
+        "attachment": "",
+        "mirror": "预期不再极可能发生的"
+      },
+      {
+        "op": "delete",
+        "attachment": "不再极可能发生但可能预期仍然会发生，在预期",
+        "mirror": ""
+      },
+      {
+        "op": "delete",
+        "attachment": "情况下",
+        "mirror": ""
+      },
+      {
+        "op": "delete",
+        "attachment": "前述",
+        "mirror": ""
+      },
+      {
+        "op": "delete",
+        "attachment": "财务报表",
+        "mirror": ""
+      },
+      {
+        "op": "delete",
+        "attachment": "关于",
+        "mirror": ""
+      }
+    ],
+    "result": "存在差异, 所选官网网页为镜像依据, 原附件另存",
+    "处理": "保持镜像与所选官网网页逐字一致, 未合并改写两种来源"
+  },
+  {
+    "path": "准则/企业会计准则第25号——原保险合同(2006年版).md",
+    "attachment": "附件/企业会计准则第25号——原保险合同(2006年版).pdf",
+    "attachment_chars": 3156,
+    "mirror_chars": 3156,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第25号——保险合同(2020年版).md",
+    "attachment": "附件/企业会计准则第25号——保险合同(2020年版).pdf",
+    "attachment_chars": 21781,
+    "mirror_chars": 21781,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第26号——再保险合同(2006年版).md",
+    "attachment": "附件/企业会计准则第26号——再保险合同(2006年版).pdf",
+    "attachment_chars": 2275,
+    "mirror_chars": 2275,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第27号——石油天然气开采(2006年版).md",
+    "attachment": "附件/企业会计准则第27号——石油天然气开采(2006年版).pdf",
+    "attachment_chars": 3453,
+    "mirror_chars": 3453,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第28号——会计政策、会计估计变更和差错更正(2006年版).md",
+    "attachment": "附件/企业会计准则第28号——会计政策、会计估计变更和差错更正(2006年版).pdf",
+    "attachment_chars": 1930,
+    "mirror_chars": 1930,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第29号——资产负债表日后事项(2006年版).md",
+    "attachment": "附件/企业会计准则第29号——资产负债表日后事项(2006年版).pdf",
+    "attachment_chars": 1100,
+    "mirror_chars": 1100,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第30号——财务报表列报(2006年版).md",
+    "attachment": "附件/企业会计准则第30号——财务报表列报(2006年版).pdf",
+    "attachment_chars": 3520,
+    "mirror_chars": 3520,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第30号——财务报表列报(2014年版).md",
+    "attachment": "附件/企业会计准则第30号——财务报表列报(2014年版).pdf",
+    "attachment_chars": 6708,
+    "mirror_chars": 6708,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第31号——现金流量表(2006年版).md",
+    "attachment": "附件/企业会计准则第31号——现金流量表(2006年版).pdf",
+    "attachment_chars": 2002,
+    "mirror_chars": 2002,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第32号——中期财务报告(2006年版).md",
+    "attachment": "附件/企业会计准则第32号——中期财务报告(2006年版).pdf",
+    "attachment_chars": 2395,
+    "mirror_chars": 2395,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第33号——合并财务报表(2006年版).md",
+    "attachment": "附件/企业会计准则第33号——合并财务报表(2006年版).pdf",
+    "attachment_chars": 4473,
+    "mirror_chars": 4473,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第33号——合并财务报表(2014年版).md",
+    "attachment": "附件/企业会计准则第33号——合并财务报表(2014年版).pdf",
+    "result": "PDF无可提取文字; 镜像以已核验官网网页为依据"
+  },
+  {
+    "path": "准则/企业会计准则第34号——每股收益(2006年版).md",
+    "attachment": "附件/企业会计准则第34号——每股收益(2006年版).pdf",
+    "attachment_chars": 1703,
+    "mirror_chars": 1703,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第35号——分部报告(2006年版).md",
+    "attachment": "附件/企业会计准则第35号——分部报告(2006年版).pdf",
+    "attachment_chars": 2988,
+    "mirror_chars": 2988,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第36号——关联方披露(2006年版).md",
+    "attachment": "附件/企业会计准则第36号——关联方披露(2006年版).pdf",
+    "attachment_chars": 1537,
+    "mirror_chars": 1537,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第37号——金融工具列报(2006年版).md",
+    "attachment": "附件/企业会计准则第37号——金融工具列报(2006年版).pdf",
+    "attachment_chars": 6949,
+    "mirror_chars": 6949,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第37号——金融工具列报(2014年版).md",
+    "attachment": "附件/企业会计准则第37号——金融工具列报(2014年版).pdf",
+    "attachment_chars": 16326,
+    "mirror_chars": 16328,
+    "ratio": 0.99994,
+    "differences": [
+      {
+        "op": "insert",
+        "attachment": "",
+        "mirror": "23"
+      }
+    ],
+    "result": "存在差异, 所选官网网页为镜像依据, 原附件另存",
+    "处理": "保持镜像与所选官网网页逐字一致, 未合并改写两种来源"
+  },
+  {
+    "path": "准则/企业会计准则第37号——金融工具列报(2017年版).md",
+    "attachment": "附件/企业会计准则第37号——金融工具列报(2017年版).pdf",
+    "attachment_chars": 24044,
+    "mirror_chars": 24043,
+    "ratio": 0.9999,
+    "differences": [
+      {
+        "op": "delete",
+        "attachment": "的",
+        "mirror": ""
+      },
+      {
+        "op": "replace",
+        "attachment": "资产",
+        "mirror": "工具"
+      }
+    ],
+    "result": "存在差异, 所选官网网页为镜像依据, 原附件另存",
+    "处理": "保持镜像与所选官网网页逐字一致, 未合并改写两种来源"
+  },
+  {
+    "path": "准则/企业会计准则第38号——首次执行企业会计准则(2006年版).md",
+    "attachment": "附件/企业会计准则第38号——首次执行企业会计准则(2006年版).pdf",
+    "attachment_chars": 2890,
+    "mirror_chars": 2890,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "准则/企业会计准则第39号——公允价值计量(2014年版).md",
+    "attachment": "附件/企业会计准则第39号——公允价值计量(2014年版).pdf",
+    "attachment_chars": 10033,
+    "mirror_chars": 10041,
+    "ratio": 0.9991,
+    "differences": [
+      {
+        "op": "replace",
+        "attachment": "和",
+        "mirror": "或"
+      },
+      {
+        "op": "replace",
+        "attachment": "重大改",
+        "mirror": "显著"
+      },
+      {
+        "op": "insert",
+        "attachment": "",
+        "mirror": "化"
+      },
+      {
+        "op": "replace",
+        "attachment": "，",
+        "mirror": "。"
+      },
+      {
+        "op": "insert",
+        "attachment": "",
+        "mirror": "的、可合理取得的"
+      }
+    ],
+    "result": "存在差异, 所选官网网页为镜像依据, 原附件另存",
+    "处理": "保持镜像与所选官网网页逐字一致, 未合并改写两种来源"
+  },
+  {
+    "path": "准则/企业会计准则第40号——合营安排(2014年版).md",
+    "attachment": "附件/企业会计准则第40号——合营安排(2014年版).pdf",
+    "attachment_chars": 2614,
+    "mirror_chars": 2614,
+    "ratio": 0.99962,
+    "differences": [
+      {
+        "op": "replace",
+        "attachment": "臵",
+        "mirror": "置"
+      }
+    ],
+    "result": "存在差异, 所选官网网页为镜像依据, 原附件另存",
+    "处理": "保持镜像与所选官网网页逐字一致, 未合并改写两种来源"
+  },
+  {
+    "path": "准则/企业会计准则第41号——在其他主体中权益的披露(2014年版).md",
+    "attachment": "附件/企业会计准则第41号——在其他主体中权益的披露(2014年版).pdf",
+    "attachment_chars": 4685,
+    "mirror_chars": 4685,
+    "ratio": 0.99979,
+    "differences": [
+      {
+        "op": "replace",
+        "attachment": "，",
+        "mirror": ","
+      }
+    ],
+    "result": "存在差异, 所选官网网页为镜像依据, 原附件另存",
+    "处理": "保持镜像与所选官网网页逐字一致, 未合并改写两种来源"
+  },
+  {
+    "path": "准则/企业会计准则第42号——持有待售的非流动资产、处置组和终止经营(2017年版).md",
+    "attachment": "附件/企业会计准则第42号——持有待售的非流动资产、处置组和终止经营(2017年版).pdf",
+    "attachment_chars": 4487,
+    "mirror_chars": 4487,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "解释/企业会计准则解释第1号(2007年版).md",
+    "attachment": "附件/企业会计准则解释第1号(2007年版).doc",
+    "attachment_chars": 3770,
+    "mirror_chars": 3770,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "解释/企业会计准则解释第2号(2008年版).md",
+    "attachment": "附件/企业会计准则解释第2号(2008年版).doc",
+    "attachment_chars": 2677,
+    "mirror_chars": 2677,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "解释/企业会计准则解释第3号(2009年版).md",
+    "attachment": "附件/企业会计准则解释第3号(2009年版).doc",
+    "attachment_chars": 3289,
+    "mirror_chars": 3289,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "解释/企业会计准则解释第5号(2012年版).md",
+    "attachment": "附件/企业会计准则解释第5号(2012年版).doc",
+    "attachment_chars": 2844,
+    "mirror_chars": 2844,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "解释/企业会计准则解释第6号(2014年版).md",
+    "attachment": "附件/企业会计准则解释第6号(2014年版).doc",
+    "attachment_chars": 880,
+    "mirror_chars": 880,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "解释/企业会计准则解释第7号(2015年版).md",
+    "attachment": "附件/企业会计准则解释第7号(2015年版).pdf",
+    "attachment_chars": 4978,
+    "mirror_chars": 4978,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "解释/企业会计准则解释第9号——关于权益法下有关投资净损失的会计处理(2017年版).md",
+    "attachment": "附件/企业会计准则解释第9号——关于权益法下有关投资净损失的会计处理(2017年版).docx",
+    "attachment_chars": 892,
+    "mirror_chars": 892,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "解释/企业会计准则解释第10号——关于以使用固定资产产生的收入为基础的折旧方法(2017年版).md",
+    "attachment": "附件/企业会计准则解释第10号——关于以使用固定资产产生的收入为基础的折旧方法(2017年版).docx",
+    "attachment_chars": 463,
+    "mirror_chars": 463,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "解释/企业会计准则解释第11号——关于以使用无形资产产生的收入为基础的摊销方法(2017年版).md",
+    "attachment": "附件/企业会计准则解释第11号——关于以使用无形资产产生的收入为基础的摊销方法(2017年版).docx",
+    "attachment_chars": 719,
+    "mirror_chars": 719,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "解释/企业会计准则解释第12号——关于关键管理人员服务的提供方与接受方是否为关联方(2017年版).md",
+    "attachment": "附件/企业会计准则解释第12号——关于关键管理人员服务的提供方与接受方是否为关联方(2017年版).docx",
+    "attachment_chars": 514,
+    "mirror_chars": 514,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "解释/企业会计准则解释第13号(2019年版).md",
+    "attachment": "附件/企业会计准则解释第13号(2019年版).pdf",
+    "attachment_chars": 2126,
+    "mirror_chars": 2126,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "解释/企业会计准则解释第14号(2021年版).md",
+    "attachment": "附件/企业会计准则解释第14号(2021年版).pdf",
+    "attachment_chars": 4280,
+    "mirror_chars": 4280,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "解释/企业会计准则解释第15号(2021年版).md",
+    "attachment": "附件/企业会计准则解释第15号(2021年版).pdf",
+    "attachment_chars": 2453,
+    "mirror_chars": 2453,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "解释/企业会计准则解释第16号(2022年版).md",
+    "attachment": "附件/企业会计准则解释第16号(2022年版).pdf",
+    "attachment_chars": 2037,
+    "mirror_chars": 2037,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "解释/企业会计准则解释第17号(2023年版).md",
+    "attachment": "附件/企业会计准则解释第17号(2023年版).pdf",
+    "attachment_chars": 2610,
+    "mirror_chars": 2610,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  },
+  {
+    "path": "解释/企业会计准则解释第18号(2024年版).md",
+    "attachment": "附件/企业会计准则解释第18号(2024年版).pdf",
+    "attachment_chars": 1153,
+    "mirror_chars": 1153,
+    "ratio": 1.0,
+    "differences": [],
+    "result": "相同"
+  }
+]

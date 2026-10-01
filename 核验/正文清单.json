@@ -1,0 +1,3280 @@
+[
+  {
+    "kind": "准则",
+    "number": 0,
+    "year": 2006,
+    "name": "企业会计准则——基本准则",
+    "url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2006/caizhengwengao20061/200805/t20080519_23593.htm",
+    "status": "已修改",
+    "path": "准则/企业会计准则——基本准则(2006年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2006/caizhengwengao20061/200805/t20080519_23593.htm",
+        "source_path": "核验/网页/7962eed8282bd8cb.html",
+        "encoding": "UTF-8",
+        "selector": ".my_doccontent",
+        "title": "中华人民共和国财政部令第33号",
+        "chars": 3811,
+        "text_sha256": "1deb290eb8f63111be39c1d4a7a90ff857e6f277f148e5542a382ac64193fef7"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则——基本准则(2006年版).doc"
+    ],
+    "bytes": 12191,
+    "sha256": "2d90a79d2eead9a00d372b36294c3cbd6c53d90cf20dca4afb2aed247d7f8737",
+    "核验状态": "逐字核对一致",
+    "document_number": "财政部令第33号",
+    "issue_date": "2006-02-15",
+    "issue_date_literal": "2006年2月15日",
+    "version_basis_url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2006/caizhengwengao20061/200805/t20080519_23593.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 0,
+    "year": 2014,
+    "name": "企业会计准则——基本准则",
+    "url": "https://tfs.mof.gov.cn/caizhengbuling/201407/t20140729_1119494.htm",
+    "status": "现行",
+    "path": "准则/企业会计准则——基本准则(2014年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://tfs.mof.gov.cn/caizhengbuling/201407/t20140729_1119494.htm",
+        "source_path": "核验/网页/2cf1eeac6e1fc596.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "中华人民共和国财政部令第76号——财政部关于修改《企业会计准则——基本准则》的决定",
+        "chars": 4069,
+        "text_sha256": "b641d929288608b2e5adb34bb7b605ebf384e23fad30e5ea9fe72b5ca1240965"
+      }
+    ],
+    "attachments": [],
+    "bytes": 12865,
+    "sha256": "a375cdb2afd2bd109476672631eaf8297470e6c1362065de45a9d43e1e040f8b",
+    "核验状态": "逐字核对一致",
+    "document_number": "财政部令第76号",
+    "issue_date": "2014-07-23",
+    "issue_date_literal": "2014年7月23日",
+    "version_basis_url": "https://tfs.mof.gov.cn/caizhengbuling/201407/t20140729_1119494.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 1,
+    "year": 2006,
+    "name": "企业会计准则第1号——存货",
+    "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46216.htm",
+    "status": "现行",
+    "path": "准则/企业会计准则第1号——存货(2006年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46216.htm",
+        "source_path": "核验/网页/d37186aa7f011d17.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "企业会计准则第1号——存货",
+        "chars": 1997,
+        "text_sha256": "e0df6bb14e3a8795be68188ab739b11cfdba6bc5f0d5a5c0f54c7eaa51a1235e"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第1号——存货(2006年版).pdf"
+    ],
+    "bytes": 6496,
+    "sha256": "2f07ef30698a288b7a65503412fbe7b51b820f38e3c8e80d01653ab65f8ec4a8",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2006]3号",
+    "issue_date": "2006-02-15",
+    "issue_date_literal": "2006年2月15日",
+    "version_basis_url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2006/caizhengbuwengao20062/200805/t20080519_23694.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 2,
+    "year": 2006,
+    "name": "企业会计准则第2号——长期股权投资",
+    "url": "https://www.mof.gov.cn/zhengwuxinxi/zhengcefabu/2006zcfb/200805/t20080519_23108.htm",
+    "status": "已同时废止",
+    "source_type": "archive",
+    "path": "准则/企业会计准则第2号——长期股权投资(2006年版).md",
+    "sources": [
+      {
+        "type": "pdf",
+        "source_path": "附件/企业会计准则第2号——长期股权投资(2006年版).pdf",
+        "extracted_path": "核验/提取文本/d3226ad7218599ea.txt",
+        "pages": 7,
+        "removed_page_numbers": [
+          {
+            "page": 1,
+            "text": "1"
+          },
+          {
+            "page": 2,
+            "text": "2"
+          },
+          {
+            "page": 3,
+            "text": "3"
+          },
+          {
+            "page": 4,
+            "text": "4"
+          },
+          {
+            "page": 5,
+            "text": "5"
+          },
+          {
+            "page": 6,
+            "text": "6"
+          },
+          {
+            "page": 7,
+            "text": "7"
+          }
+        ],
+        "reading_order_correction": null,
+        "chars": 2940,
+        "text_sha256": "0f5f4ab150e0d5c2101c7a3d94f50bd0fe8279db412862c49645e2cd18ef3aed"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第2号——长期股权投资(2006年版).pdf"
+    ],
+    "bytes": 9277,
+    "sha256": "fc0e5f90734c05bf9f5630bba04a22ae14d1b2d4d6082ade9f8e75bc225d59df",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2006]3号",
+    "issue_date": "2006-02-15",
+    "issue_date_literal": "2006年2月15日",
+    "version_basis_url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2006/caizhengbuwengao20062/200805/t20080519_23694.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 2,
+    "year": 2014,
+    "name": "企业会计准则第2号——长期股权投资",
+    "url": "https://kjs.mof.gov.cn/zhengcefabu/201403/t20140319_1057127.htm",
+    "status": "现行",
+    "path": "准则/企业会计准则第2号——长期股权投资(2014年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zhengcefabu/201403/t20140319_1057127.htm",
+        "source_path": "核验/网页/ff2d1322df8ba3c1.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "关于印发修订《企业会计准则第2号——长期股权投资》的通知",
+        "chars": 4489,
+        "text_sha256": "684c0b62dae349c4d412f249f1df3f555dcc69dc39a3523403c6cb541f4bda4a"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第2号——长期股权投资(2014年版).doc"
+    ],
+    "bytes": 13791,
+    "sha256": "34057be15b3d4de96048b93b7dfd550373f7dc1a6bbea5749a26fbf5e7832246",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2014]14号",
+    "issue_date": "2014-03-13",
+    "issue_date_literal": "2014年3月13日",
+    "version_basis_url": "https://kjs.mof.gov.cn/zhengcefabu/201403/t20140319_1057127.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 3,
+    "year": 2006,
+    "name": "企业会计准则第3号——投资性房地产",
+    "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46214.htm",
+    "status": "现行",
+    "path": "准则/企业会计准则第3号——投资性房地产(2006年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46214.htm",
+        "source_path": "核验/网页/37106dc3a0948253.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "企业会计准则第3号——投资性房地产",
+        "chars": 1833,
+        "text_sha256": "573fb21452758708e548f79c421fc3b81f383de463774c4aac53cac80974e4cc"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第3号——投资性房地产(2006年版).pdf"
+    ],
+    "bytes": 6014,
+    "sha256": "a18101320644a2b0ee2366ca8cb2b17bb94b708ee3cc6942c82b78cef37821ca",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2006]3号",
+    "issue_date": "2006-02-15",
+    "issue_date_literal": "2006年2月15日",
+    "version_basis_url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2006/caizhengbuwengao20062/200805/t20080519_23694.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 4,
+    "year": 2006,
+    "name": "企业会计准则第4号——固定资产",
+    "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46213.htm",
+    "status": "现行",
+    "path": "准则/企业会计准则第4号——固定资产(2006年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46213.htm",
+        "source_path": "核验/网页/502bfe5c710c4c42.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "企业会计准则第4号——固定资产",
+        "chars": 2296,
+        "text_sha256": "c0feb5afb8bd96a80a65fb91aa34d8dabcb53722b077060d505a8d6412742214"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第4号——固定资产(2006年版).pdf"
+    ],
+    "bytes": 7439,
+    "sha256": "ae0b58dee43515b835031c5c891d15e7786ac7b5d5f743c60a25ea482f129828",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2006]3号",
+    "issue_date": "2006-02-15",
+    "issue_date_literal": "2006年2月15日",
+    "version_basis_url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2006/caizhengbuwengao20062/200805/t20080519_23694.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 5,
+    "year": 2006,
+    "name": "企业会计准则第5号——生物资产",
+    "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46212.htm",
+    "status": "现行",
+    "path": "准则/企业会计准则第5号——生物资产(2006年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46212.htm",
+        "source_path": "核验/网页/01467fd6eff9bb7d.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "企业会计准则第5号——生物资产",
+        "chars": 3144,
+        "text_sha256": "baef590df8acba85ff8c8ff921ec9cb31afcc658de74683e793691f9c1914305"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第5号——生物资产(2006年版).pdf"
+    ],
+    "bytes": 9988,
+    "sha256": "cabdc2c9dfa0c8d4fdfa7397b6bf2bcfd8aad4c0b583cc7fb06e049aee008d1a",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2006]3号",
+    "issue_date": "2006-02-15",
+    "issue_date_literal": "2006年2月15日",
+    "version_basis_url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2006/caizhengbuwengao20062/200805/t20080519_23694.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 6,
+    "year": 2006,
+    "name": "企业会计准则第6号——无形资产",
+    "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46242.htm",
+    "status": "现行",
+    "path": "准则/企业会计准则第6号——无形资产(2006年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46242.htm",
+        "source_path": "核验/网页/db0cd87144dbce0d.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "企业会计准则第6号——无形资产",
+        "chars": 2539,
+        "text_sha256": "7ce88a8f09b9d682a4b7104dc502fea605644e0b3d7d2223d41be017e65bddd2"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第6号——无形资产(2006年版).pdf"
+    ],
+    "bytes": 8158,
+    "sha256": "d63794457e5991b4a745ac87a22ebc6ffd178dfae4bcb67fb18ed174964a109b",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2006]3号",
+    "issue_date": "2006-02-15",
+    "issue_date_literal": "2006年2月15日",
+    "version_basis_url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2006/caizhengbuwengao20062/200805/t20080519_23694.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 7,
+    "year": 2006,
+    "name": "企业会计准则第7号——非货币性资产交换",
+    "url": "https://www.mof.gov.cn/zhengwuxinxi/zhengcefabu/2006zcfb/200805/t20080519_23108.htm",
+    "status": "已同时废止",
+    "source_type": "archive",
+    "path": "准则/企业会计准则第7号——非货币性资产交换(2006年版).md",
+    "sources": [
+      {
+        "type": "pdf",
+        "source_path": "附件/企业会计准则第7号——非货币性资产交换(2006年版).pdf",
+        "extracted_path": "核验/提取文本/7a3368dbf3af20fa.txt",
+        "pages": 4,
+        "removed_page_numbers": [
+          {
+            "page": 1,
+            "text": "1"
+          },
+          {
+            "page": 2,
+            "text": "2"
+          },
+          {
+            "page": 3,
+            "text": "3"
+          },
+          {
+            "page": 4,
+            "text": "4"
+          }
+        ],
+        "reading_order_correction": null,
+        "chars": 1375,
+        "text_sha256": "becc2d3dc66ddd400fc8c273e928289956551adbe7d00e0627384e3c1a3c6a33"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第7号——非货币性资产交换(2006年版).pdf"
+    ],
+    "bytes": 4549,
+    "sha256": "7dff9d52b0160fdde7885f35111aa2d603e9a769abbf7b0e4e2098e6b185da08",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2006]3号",
+    "issue_date": "2006-02-15",
+    "issue_date_literal": "2006年2月15日",
+    "version_basis_url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2006/caizhengbuwengao20062/200805/t20080519_23694.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 7,
+    "year": 2019,
+    "name": "企业会计准则第7号——非货币性资产交换",
+    "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/201909/t20190911_3384679.htm",
+    "status": "现行",
+    "path": "准则/企业会计准则第7号——非货币性资产交换(2019年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/201909/t20190911_3384679.htm",
+        "source_path": "核验/网页/9f9f432a1f01e32a.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "企业会计准则第7号——非货币性资产交换",
+        "chars": 3290,
+        "text_sha256": "483b159e2b55c640353379c6e74504a8e3699d7fbaeed8023d1a733831ba8978"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第7号——非货币性资产交换(2019年版).pdf"
+    ],
+    "bytes": 10302,
+    "sha256": "bdcd6d6532fce007624c6d958f3c1b5054cd32ec648c76ddf1b08c72b7695b86",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会〔2019〕8号",
+    "issue_date": "2019-05-09",
+    "issue_date_literal": "2019年5月9日",
+    "version_basis_url": "https://kjs.mof.gov.cn/zhengcefabu/201905/t20190516_3258929.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 8,
+    "year": 2006,
+    "name": "企业会计准则第8号——资产减值",
+    "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46240.htm",
+    "status": "现行",
+    "path": "准则/企业会计准则第8号——资产减值(2006年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46240.htm",
+        "source_path": "核验/网页/e212c0b13371c85a.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "企业会计准则第8号——资产减值",
+        "chars": 6669,
+        "text_sha256": "b8305dbd02efea439f6aed80e14fb901638f69f3663c3a0bb6069a3d59e5a89f"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第8号——资产减值(2006年版).pdf"
+    ],
+    "bytes": 20635,
+    "sha256": "ee857348ec875af1635fd32f3531a7f6657fbf25caafab1deb52552e354f6adb",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2006]3号",
+    "issue_date": "2006-02-15",
+    "issue_date_literal": "2006年2月15日",
+    "version_basis_url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2006/caizhengbuwengao20062/200805/t20080519_23694.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 9,
+    "year": 2006,
+    "name": "企业会计准则第9号——职工薪酬",
+    "url": "https://www.mof.gov.cn/zhengwuxinxi/zhengcefabu/2006zcfb/200805/t20080519_23108.htm",
+    "status": "已同时废止",
+    "source_type": "archive",
+    "path": "准则/企业会计准则第9号——职工薪酬(2006年版).md",
+    "sources": [
+      {
+        "type": "pdf",
+        "source_path": "附件/企业会计准则第9号——职工薪酬(2006年版).pdf",
+        "extracted_path": "核验/提取文本/84b07ba56fd4d1b7.txt",
+        "pages": 3,
+        "removed_page_numbers": [
+          {
+            "page": 1,
+            "text": "1"
+          },
+          {
+            "page": 2,
+            "text": "2"
+          },
+          {
+            "page": 3,
+            "text": "3"
+          }
+        ],
+        "reading_order_correction": null,
+        "chars": 1145,
+        "text_sha256": "d4996a945ce546d48a37817caafa4fa597514c7bac40c3b5154a48b769b3141e"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第9号——职工薪酬(2006年版).pdf"
+    ],
+    "bytes": 3836,
+    "sha256": "e714a64a0c417c6b7e045265d227ec081685799e747c8eb7518133d9934f6222",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2006]3号",
+    "issue_date": "2006-02-15",
+    "issue_date_literal": "2006年2月15日",
+    "version_basis_url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2006/caizhengbuwengao20062/200805/t20080519_23694.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 9,
+    "year": 2014,
+    "name": "企业会计准则第9号——职工薪酬",
+    "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46239.htm",
+    "status": "现行",
+    "path": "准则/企业会计准则第9号——职工薪酬(2014年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46239.htm",
+        "source_path": "核验/网页/2327d785df130621.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "企业会计准则第9号——职工薪酬",
+        "chars": 5050,
+        "text_sha256": "23fb3fb22eb7b9503c0c6c5cfb24ce4872d5af67bd5ee4e2d0a72832dd5c0a88"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第9号——职工薪酬(2014年版).pdf"
+    ],
+    "bytes": 15698,
+    "sha256": "20c596b94420b217d7d3675c7574d9ff8110780f08589e819741f0a1e1edcebe",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2014]8号",
+    "issue_date": "2014-01-27",
+    "issue_date_literal": "2014年1月27日",
+    "version_basis_url": "https://kjs.mof.gov.cn/zhengcefabu/201401/t20140129_1040561.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 10,
+    "year": 2006,
+    "name": "企业会计准则第10号——企业年金基金",
+    "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46238.htm",
+    "status": "现行",
+    "path": "准则/企业会计准则第10号——企业年金基金(2006年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46238.htm",
+        "source_path": "核验/网页/31381d3c7ead4ed2.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "企业会计准则第10号——企业年金基金",
+        "chars": 2410,
+        "text_sha256": "5a128424a1a7c835fca6c2786c138e30a1db32feb00419039a80376b0073074c"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第10号——企业年金基金(2006年版).pdf"
+    ],
+    "bytes": 21907,
+    "sha256": "65d7a74d699929cb703b06a348df68c45a180daf47880f492c3f9376a2391773",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2006]3号",
+    "issue_date": "2006-02-15",
+    "issue_date_literal": "2006年2月15日",
+    "version_basis_url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2006/caizhengbuwengao20062/200805/t20080519_23694.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 11,
+    "year": 2006,
+    "name": "企业会计准则第11号——股份支付",
+    "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46237.htm",
+    "status": "现行",
+    "path": "准则/企业会计准则第11号——股份支付(2006年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46237.htm",
+        "source_path": "核验/网页/227486c0a870d4eb.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "企业会计准则第11号——股份支付",
+        "chars": 1816,
+        "text_sha256": "de110b308d5bf9a614eccfd2f4c5b1d6768be01d0e3d5d7102bcf1673e370995"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第11号——股份支付(2006年版).pdf"
+    ],
+    "bytes": 5870,
+    "sha256": "8a5b1d7ea5786265df98a94b387ad4f364dd9454c79b88b804b70371b3044574",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2006]3号",
+    "issue_date": "2006-02-15",
+    "issue_date_literal": "2006年2月15日",
+    "version_basis_url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2006/caizhengbuwengao20062/200805/t20080519_23694.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 12,
+    "year": 2006,
+    "name": "企业会计准则第12号——债务重组",
+    "url": "https://www.mof.gov.cn/zhengwuxinxi/zhengcefabu/2006zcfb/200805/t20080519_23108.htm",
+    "status": "已同时废止",
+    "source_type": "archive",
+    "path": "准则/企业会计准则第12号——债务重组(2006年版).md",
+    "sources": [
+      {
+        "type": "pdf",
+        "source_path": "附件/企业会计准则第12号——债务重组(2006年版).pdf",
+        "extracted_path": "核验/提取文本/61669d9e80618e5f.txt",
+        "pages": 5,
+        "removed_page_numbers": [
+          {
+            "page": 1,
+            "text": "1"
+          },
+          {
+            "page": 2,
+            "text": "2"
+          },
+          {
+            "page": 3,
+            "text": "3"
+          },
+          {
+            "page": 4,
+            "text": "4"
+          },
+          {
+            "page": 5,
+            "text": "5"
+          }
+        ],
+        "reading_order_correction": null,
+        "chars": 1731,
+        "text_sha256": "d07b14c9be91389d2c2e3b6d1733195d7c3dbf2acae7094d9384a13033897e7a"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第12号——债务重组(2006年版).pdf"
+    ],
+    "bytes": 5629,
+    "sha256": "bd16dedce30919453595040726c2e638c74fd0027cd2c10b59a49318db4a516a",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2006]3号",
+    "issue_date": "2006-02-15",
+    "issue_date_literal": "2006年2月15日",
+    "version_basis_url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2006/caizhengbuwengao20062/200805/t20080519_23694.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 12,
+    "year": 2019,
+    "name": "企业会计准则第12号——债务重组",
+    "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/201910/t20191028_3410789.htm",
+    "status": "现行",
+    "path": "准则/企业会计准则第12号——债务重组(2019年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/201910/t20191028_3410789.htm",
+        "source_path": "核验/网页/6adca92f978860fd.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "企业会计准则第12号——债务重组",
+        "chars": 2325,
+        "text_sha256": "6ea44fdbd7f96bbef3777290437d9660618dc10e1f3171f6a125ae452532d1c4"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第12号——债务重组(2019年版).pdf"
+    ],
+    "bytes": 7383,
+    "sha256": "7f2bb1cf89cf8686421ebc3c9763e591be8c8e53a105d1c1de4f70ab4960d6a9",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会〔2019〕9号",
+    "issue_date": "2019-05-16",
+    "issue_date_literal": "2019年5月16日",
+    "version_basis_url": "https://kjs.mof.gov.cn/zhengcefabu/201905/t20190529_3267525.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 13,
+    "year": 2006,
+    "name": "企业会计准则第13号——或有事项",
+    "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46235.htm",
+    "status": "现行",
+    "path": "准则/企业会计准则第13号——或有事项(2006年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46235.htm",
+        "source_path": "核验/网页/b3e62cb0d145aa82.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "企业会计准则第13号——或有事项",
+        "chars": 1665,
+        "text_sha256": "c7b76cbc3a79691725bb65d670df3284090e1b7531fae52bddad0459edb59275"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第13号——或有事项(2006年版).pdf"
+    ],
+    "bytes": 5411,
+    "sha256": "48abccd6366d7f81e5c2f908dab5f99ee2e29cb9eb12e7684cb23da955e4bfe0",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2006]3号",
+    "issue_date": "2006-02-15",
+    "issue_date_literal": "2006年2月15日",
+    "version_basis_url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2006/caizhengbuwengao20062/200805/t20080519_23694.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 14,
+    "year": 2006,
+    "name": "企业会计准则第14号——收入",
+    "url": "https://www.mof.gov.cn/zhengwuxinxi/zhengcefabu/2006zcfb/200805/t20080519_23108.htm",
+    "status": "执行新版后不再执行",
+    "source_type": "archive",
+    "path": "准则/企业会计准则第14号——收入(2006年版).md",
+    "sources": [
+      {
+        "type": "pdf",
+        "source_path": "附件/企业会计准则第14号——收入(2006年版).pdf",
+        "extracted_path": "核验/提取文本/6293691d2bac6af1.txt",
+        "pages": 6,
+        "removed_page_numbers": [
+          {
+            "page": 1,
+            "text": "1"
+          },
+          {
+            "page": 2,
+            "text": "2"
+          },
+          {
+            "page": 3,
+            "text": "3"
+          },
+          {
+            "page": 4,
+            "text": "4"
+          },
+          {
+            "page": 5,
+            "text": "5"
+          },
+          {
+            "page": 6,
+            "text": "6"
+          }
+        ],
+        "reading_order_correction": null,
+        "chars": 2035,
+        "text_sha256": "282478030e5a06ade6f91c7344bbe8f8261ebbe5e1b1467495dab99d33935cc2"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第14号——收入(2006年版).pdf"
+    ],
+    "bytes": 6571,
+    "sha256": "d49dc787c5382149bed1ba8eb7c8a4cc1134845f5f57fcf162d46b9ef52dbe49",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2006]3号",
+    "issue_date": "2006-02-15",
+    "issue_date_literal": "2006年2月15日",
+    "version_basis_url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2006/caizhengbuwengao20062/200805/t20080519_23694.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 14,
+    "year": 2017,
+    "name": "企业会计准则第14号——收入",
+    "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/201709/t20170907_2694006.htm",
+    "status": "现行",
+    "path": "准则/企业会计准则第14号——收入(2017年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/201709/t20170907_2694006.htm",
+        "source_path": "核验/网页/3d6c305eeb7fcaf4.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "企业会计准则第14号——收入",
+        "chars": 10654,
+        "text_sha256": "ab958a443a2da64e1d2a48563a1243295a2496dc18f1772314b25784295aec2c"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第14号——收入(2017年版).pdf"
+    ],
+    "bytes": 32693,
+    "sha256": "512fc9f13e4f803e7be7b1229b567db89786dc2946e2b989982295df49866bd9",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会〔2017〕22号",
+    "issue_date": "2017-07-05",
+    "issue_date_literal": "2017年7月5日",
+    "version_basis_url": "https://kjs.mof.gov.cn/zhengcefabu/201707/t20170719_2653110.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 15,
+    "year": 2006,
+    "name": "企业会计准则第15号——建造合同",
+    "url": "https://www.mof.gov.cn/zhengwuxinxi/zhengcefabu/2006zcfb/200805/t20080519_23108.htm",
+    "status": "执行2017年第14号后不再执行",
+    "source_type": "archive",
+    "path": "准则/企业会计准则第15号——建造合同(2006年版).md",
+    "sources": [
+      {
+        "type": "pdf",
+        "source_path": "附件/企业会计准则第15号——建造合同(2006年版).pdf",
+        "extracted_path": "核验/提取文本/a64193dd41685b34.txt",
+        "pages": 7,
+        "removed_page_numbers": [
+          {
+            "page": 1,
+            "text": "1"
+          },
+          {
+            "page": 2,
+            "text": "2"
+          },
+          {
+            "page": 3,
+            "text": "3"
+          },
+          {
+            "page": 4,
+            "text": "4"
+          },
+          {
+            "page": 5,
+            "text": "5"
+          },
+          {
+            "page": 6,
+            "text": "6"
+          },
+          {
+            "page": 7,
+            "text": "7"
+          }
+        ],
+        "reading_order_correction": null,
+        "chars": 2403,
+        "text_sha256": "8a83a0aa774b49e0282ddb4a26f9ce088010972c3cbdfb4ae7b14041305861d2"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第15号——建造合同(2006年版).pdf"
+    ],
+    "bytes": 7751,
+    "sha256": "84e25050af3772ad0d58ec7ab74de40646cf00e6dcd5aaf04f1324e129eb5bcd",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2006]3号",
+    "issue_date": "2006-02-15",
+    "issue_date_literal": "2006年2月15日",
+    "version_basis_url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2006/caizhengbuwengao20062/200805/t20080519_23694.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 16,
+    "year": 2006,
+    "name": "企业会计准则第16号——政府补助",
+    "url": "https://www.mof.gov.cn/zhengwuxinxi/zhengcefabu/2006zcfb/200805/t20080519_23108.htm",
+    "status": "已同时废止",
+    "source_type": "archive",
+    "path": "准则/企业会计准则第16号——政府补助(2006年版).md",
+    "sources": [
+      {
+        "type": "pdf",
+        "source_path": "附件/企业会计准则第16号——政府补助(2006年版).pdf",
+        "extracted_path": "核验/提取文本/b5618a59da8f209c.txt",
+        "pages": 3,
+        "removed_page_numbers": [
+          {
+            "page": 1,
+            "text": "1"
+          },
+          {
+            "page": 2,
+            "text": "2"
+          },
+          {
+            "page": 3,
+            "text": "3"
+          }
+        ],
+        "reading_order_correction": null,
+        "chars": 787,
+        "text_sha256": "36ae45597ff46f7305e16a5659bc0c56aae13e13796fc7d92804e34b4ceda834"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第16号——政府补助(2006年版).pdf"
+    ],
+    "bytes": 2759,
+    "sha256": "0ebd49f08cd3e5aaee31fc84d7f2a62afb509faa6aad5f3a2a14c0f2740e2941",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2006]3号",
+    "issue_date": "2006-02-15",
+    "issue_date_literal": "2006年2月15日",
+    "version_basis_url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2006/caizhengbuwengao20062/200805/t20080519_23694.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 16,
+    "year": 2017,
+    "name": "企业会计准则第16号——政府补助",
+    "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46232.htm",
+    "status": "现行",
+    "path": "准则/企业会计准则第16号——政府补助(2017年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46232.htm",
+        "source_path": "核验/网页/2caa7c19365d3bac.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "企业会计准则第16号——政府补助",
+        "chars": 1942,
+        "text_sha256": "4ebfb28c2c04267ec1cf12a8aa39e8c0ab6a65ea4410ca9f2c28f21707bf1ac4"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第16号——政府补助(2017年版).pdf"
+    ],
+    "bytes": 6200,
+    "sha256": "79e38136735d195ab61359bffd3b3877c8e8bed8c9c0f83109f6062b0c7d5feb",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会〔2017〕15号",
+    "issue_date": "2017-05-10",
+    "issue_date_literal": "2017年5月10日",
+    "version_basis_url": "https://kjs.mof.gov.cn/zhengcefabu/201705/t20170525_2608690.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 17,
+    "year": 2006,
+    "name": "企业会计准则第17号——借款费用",
+    "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46231.htm",
+    "status": "现行",
+    "path": "准则/企业会计准则第17号——借款费用(2006年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46231.htm",
+        "source_path": "核验/网页/7a34c6849c92e01f.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "企业会计准则第17号——借款费用",
+        "chars": 2009,
+        "text_sha256": "e1b250d1e59637919ce26c63283920efad0fddc99829a4b79cc01a23990cd37a"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第17号——借款费用(2006年版).pdf"
+    ],
+    "bytes": 6476,
+    "sha256": "be4084545fcf2732ccdf7f98d199dd0be3b4363119c6889db560723093daeab4",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2006]3号",
+    "issue_date": "2006-02-15",
+    "issue_date_literal": "2006年2月15日",
+    "version_basis_url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2006/caizhengbuwengao20062/200805/t20080519_23694.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 18,
+    "year": 2006,
+    "name": "企业会计准则第18号——所得税",
+    "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46230.htm",
+    "status": "现行",
+    "path": "准则/企业会计准则第18号——所得税(2006年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46230.htm",
+        "source_path": "核验/网页/4985b3e2a16d4b49.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "企业会计准则第18号——所得税",
+        "chars": 2317,
+        "text_sha256": "1d9e230dbf9eb1c70b9694b020b3e97abfbd7a44bf5ecc6d549d0fa3c5d25cc8"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第18号——所得税(2006年版).pdf"
+    ],
+    "bytes": 7509,
+    "sha256": "9bbb950f31f0f696963363bf9c7bbf848067a0afa19c11f52e1bf2fec9413400",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2006]3号",
+    "issue_date": "2006-02-15",
+    "issue_date_literal": "2006年2月15日",
+    "version_basis_url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2006/caizhengbuwengao20062/200805/t20080519_23694.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 19,
+    "year": 2006,
+    "name": "企业会计准则第19号——外币折算",
+    "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46229.htm",
+    "status": "现行",
+    "path": "准则/企业会计准则第19号——外币折算(2006年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46229.htm",
+        "source_path": "核验/网页/3e8d7826a95e49ab.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "企业会计准则第19号——外币折算",
+        "chars": 1995,
+        "text_sha256": "59640ea7c1ede327673a74a8aae8283fdc0903a611239b6e432ab8cef5d3c6a6"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第19号——外币折算(2006年版).pdf"
+    ],
+    "bytes": 6444,
+    "sha256": "9abe70d0dea20965a8fbd9529ccbf7fcbf67552bfc22b0c9f46e9bccd4018959",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2006]3号",
+    "issue_date": "2006-02-15",
+    "issue_date_literal": "2006年2月15日",
+    "version_basis_url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2006/caizhengbuwengao20062/200805/t20080519_23694.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 20,
+    "year": 2006,
+    "name": "企业会计准则第20号——企业合并",
+    "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46228.htm",
+    "status": "现行",
+    "path": "准则/企业会计准则第20号——企业合并(2006年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46228.htm",
+        "source_path": "核验/网页/0194e1ed9080381a.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "企业会计准则第20号——企业合并",
+        "chars": 3299,
+        "text_sha256": "e2d9f8ad1c5c5f989bef7aae2f9b544489d97f5c29a2140a3a5535db87c77b4e"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第20号——企业合并(2006年版).pdf"
+    ],
+    "bytes": 10424,
+    "sha256": "22751df180412d4d8c63af8ffd510f28e6ae95dcdf868731e60bbbda65a4fb8e",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2006]3号",
+    "issue_date": "2006-02-15",
+    "issue_date_literal": "2006年2月15日",
+    "version_basis_url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2006/caizhengbuwengao20062/200805/t20080519_23694.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 21,
+    "year": 2006,
+    "name": "企业会计准则第21号——租赁",
+    "url": "https://www.mof.gov.cn/zhengwuxinxi/zhengcefabu/2006zcfb/200805/t20080519_23108.htm",
+    "status": "执行新版后不再执行",
+    "source_type": "archive",
+    "path": "准则/企业会计准则第21号——租赁(2006年版).md",
+    "sources": [
+      {
+        "type": "pdf",
+        "source_path": "附件/企业会计准则第21号——租赁(2006年版).pdf",
+        "extracted_path": "核验/提取文本/5380cdc0703e52e4.txt",
+        "pages": 9,
+        "removed_page_numbers": [
+          {
+            "page": 1,
+            "text": "1"
+          },
+          {
+            "page": 2,
+            "text": "2"
+          },
+          {
+            "page": 3,
+            "text": "3"
+          },
+          {
+            "page": 4,
+            "text": "4"
+          },
+          {
+            "page": 5,
+            "text": "5"
+          },
+          {
+            "page": 6,
+            "text": "6"
+          },
+          {
+            "page": 7,
+            "text": "7"
+          },
+          {
+            "page": 8,
+            "text": "8"
+          },
+          {
+            "page": 9,
+            "text": "9"
+          }
+        ],
+        "reading_order_correction": null,
+        "chars": 3570,
+        "text_sha256": "3c2ad32d879300f662ea45830802eb33244ea8af4c3a4a83b9d81aeea3be5efa"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第21号——租赁(2006年版).pdf"
+    ],
+    "bytes": 11277,
+    "sha256": "2fef17cb8b993ae7d4966a4b201789f7f3d4c4dc11a75f20f93e780409b4fc3a",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2006]3号",
+    "issue_date": "2006-02-15",
+    "issue_date_literal": "2006年2月15日",
+    "version_basis_url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2006/caizhengbuwengao20062/200805/t20080519_23694.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 21,
+    "year": 2018,
+    "name": "企业会计准则第21号——租赁",
+    "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/201910/t20191028_3411190.htm",
+    "status": "现行",
+    "path": "准则/企业会计准则第21号——租赁(2018年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/201910/t20191028_3411190.htm",
+        "source_path": "核验/网页/6e7690eee1f4cde2.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "企业会计准则第21号——租赁",
+        "chars": 11471,
+        "text_sha256": "1dcf2a2b58ec6d27e78246d0ccd806f17d8cb2e1e9c42c38413ed60952b833fa"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第21号——租赁(2018年版).doc"
+    ],
+    "bytes": 35361,
+    "sha256": "a9f54eae26de5f803d3e6567751305e75dc75743e30c623d95cba3e6c1495afb",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会〔2018〕35号",
+    "issue_date": "2018-12-07",
+    "issue_date_literal": "2018年12月7日",
+    "version_basis_url": "https://kjs.mof.gov.cn/zhengcefabu/201812/t20181213_3092629.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 22,
+    "year": 2006,
+    "name": "企业会计准则第22号——金融工具确认和计量",
+    "url": "https://www.mof.gov.cn/zhengwuxinxi/zhengcefabu/2006zcfb/200805/t20080519_23108.htm",
+    "status": "执行新版后不再执行",
+    "source_type": "archive",
+    "path": "准则/企业会计准则第22号——金融工具确认和计量(2006年版).md",
+    "sources": [
+      {
+        "type": "pdf",
+        "source_path": "附件/企业会计准则第22号——金融工具确认和计量(2006年版).pdf",
+        "extracted_path": "核验/提取文本/8faadf86716f3223.txt",
+        "pages": 23,
+        "removed_page_numbers": [
+          {
+            "page": 1,
+            "text": "1"
+          },
+          {
+            "page": 2,
+            "text": "2"
+          },
+          {
+            "page": 3,
+            "text": "3"
+          },
+          {
+            "page": 4,
+            "text": "4"
+          },
+          {
+            "page": 5,
+            "text": "5"
+          },
+          {
+            "page": 6,
+            "text": "6"
+          },
+          {
+            "page": 7,
+            "text": "7"
+          },
+          {
+            "page": 8,
+            "text": "8"
+          },
+          {
+            "page": 9,
+            "text": "9"
+          },
+          {
+            "page": 10,
+            "text": "10"
+          },
+          {
+            "page": 11,
+            "text": "11"
+          },
+          {
+            "page": 12,
+            "text": "12"
+          },
+          {
+            "page": 13,
+            "text": "13"
+          },
+          {
+            "page": 14,
+            "text": "14"
+          },
+          {
+            "page": 15,
+            "text": "15"
+          },
+          {
+            "page": 16,
+            "text": "16"
+          },
+          {
+            "page": 17,
+            "text": "17"
+          },
+          {
+            "page": 18,
+            "text": "18"
+          },
+          {
+            "page": 19,
+            "text": "19"
+          },
+          {
+            "page": 20,
+            "text": "20"
+          },
+          {
+            "page": 21,
+            "text": "21"
+          },
+          {
+            "page": 22,
+            "text": "22"
+          },
+          {
+            "page": 23,
+            "text": "23"
+          }
+        ],
+        "reading_order_correction": null,
+        "chars": 11317,
+        "text_sha256": "67f7ad6b395fec35fe207f235f39ce9dcd4f1ab9df70650118609fec7f1d337d"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第22号——金融工具确认和计量(2006年版).pdf"
+    ],
+    "bytes": 34755,
+    "sha256": "e9bb8ce2dd4d428e0768333cc713cf979c4e092e4719696a34c582d629218da0",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2006]3号",
+    "issue_date": "2006-02-15",
+    "issue_date_literal": "2006年2月15日",
+    "version_basis_url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2006/caizhengbuwengao20062/200805/t20080519_23694.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 22,
+    "year": 2017,
+    "name": "企业会计准则第22号——金融工具确认和计量",
+    "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/201709/t20170908_2694655.htm",
+    "status": "现行",
+    "path": "准则/企业会计准则第22号——金融工具确认和计量(2017年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/201709/t20170908_2694655.htm",
+        "source_path": "核验/网页/27cf09656c56eb65.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "企业会计准则第22号——金融工具确认和计量（财会〔2017〕7号）",
+        "chars": 19586,
+        "text_sha256": "1f3607708aaeea1dd8163fd08c26f6780297afac6cfd29bf26410b832782c68a"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第22号——金融工具确认和计量(2017年版).pdf"
+    ],
+    "bytes": 59666,
+    "sha256": "98d1863a8bbe5940f60a6c3b35d33f82f117c24042aa2a5a908fe59b7735bb9a",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会〔2017〕7号",
+    "issue_date": "2017-03-31",
+    "issue_date_literal": "2017年3月31日",
+    "version_basis_url": "https://kjs.mof.gov.cn/zhengcefabu/201704/t20170406_2575699.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 23,
+    "year": 2006,
+    "name": "企业会计准则第23号——金融资产转移",
+    "url": "https://www.mof.gov.cn/zhengwuxinxi/zhengcefabu/2006zcfb/200805/t20080519_23108.htm",
+    "status": "执行新版后不再执行",
+    "source_type": "archive",
+    "path": "准则/企业会计准则第23号——金融资产转移(2006年版).md",
+    "sources": [
+      {
+        "type": "pdf",
+        "source_path": "附件/企业会计准则第23号——金融资产转移(2006年版).pdf",
+        "extracted_path": "核验/提取文本/1341c38ef18ad58f.txt",
+        "pages": 9,
+        "removed_page_numbers": [
+          {
+            "page": 1,
+            "text": "1"
+          },
+          {
+            "page": 2,
+            "text": "2"
+          },
+          {
+            "page": 3,
+            "text": "3"
+          },
+          {
+            "page": 4,
+            "text": "4"
+          },
+          {
+            "page": 5,
+            "text": "5"
+          },
+          {
+            "page": 6,
+            "text": "6"
+          },
+          {
+            "page": 7,
+            "text": "7"
+          },
+          {
+            "page": 8,
+            "text": "8"
+          },
+          {
+            "page": 9,
+            "text": "9"
+          }
+        ],
+        "reading_order_correction": null,
+        "chars": 4525,
+        "text_sha256": "cb46c1529dc4e3b0c927ea2db9fe27ddebfffac5dd59035882e2b4479e9cf90f"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第23号——金融资产转移(2006年版).pdf"
+    ],
+    "bytes": 14084,
+    "sha256": "d267002fec8f0b7c7cf1ff1fc76fd32118068a1d276bdffacf00fcef4332451c",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2006]3号",
+    "issue_date": "2006-02-15",
+    "issue_date_literal": "2006年2月15日",
+    "version_basis_url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2006/caizhengbuwengao20062/200805/t20080519_23694.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 23,
+    "year": 2017,
+    "name": "企业会计准则第23号——金融资产转移",
+    "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/201709/t20170908_2694626.htm",
+    "status": "现行",
+    "path": "准则/企业会计准则第23号——金融资产转移(2017年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/201709/t20170908_2694626.htm",
+        "source_path": "核验/网页/3efcb729f2748918.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "企业会计准则第23号——金融资产转移（财会〔2017〕8号）",
+        "chars": 7756,
+        "text_sha256": "c0bfcf3942fd96466147f6eecce99a34b0640eb8e44daa8cdb79acd9de511119"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第23号——金融资产转移(2017年版).pdf"
+    ],
+    "bytes": 23932,
+    "sha256": "4d024e1bcb92c34f25d760914a2b2590f6d36da9b3fc97548db45ec7588e0e54",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会〔2017〕8号",
+    "issue_date": "2017-03-31",
+    "issue_date_literal": "2017年3月31日",
+    "version_basis_url": "https://kjs.mof.gov.cn/zhengcefabu/201704/t20170406_2575702.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 24,
+    "year": 2006,
+    "name": "企业会计准则第24号——套期保值",
+    "url": "https://www.mof.gov.cn/zhengwuxinxi/zhengcefabu/2006zcfb/200805/t20080519_23108.htm",
+    "status": "执行新版后不再执行",
+    "source_type": "archive",
+    "path": "准则/企业会计准则第24号——套期保值(2006年版).md",
+    "sources": [
+      {
+        "type": "pdf",
+        "source_path": "附件/企业会计准则第24号——套期保值(2006年版).pdf",
+        "extracted_path": "核验/提取文本/7486b52750a86f06.txt",
+        "pages": 11,
+        "removed_page_numbers": [
+          {
+            "page": 1,
+            "text": "1"
+          },
+          {
+            "page": 2,
+            "text": "2"
+          },
+          {
+            "page": 3,
+            "text": "3"
+          },
+          {
+            "page": 4,
+            "text": "4"
+          },
+          {
+            "page": 5,
+            "text": "5"
+          },
+          {
+            "page": 6,
+            "text": "6"
+          },
+          {
+            "page": 7,
+            "text": "7"
+          },
+          {
+            "page": 8,
+            "text": "8"
+          },
+          {
+            "page": 9,
+            "text": "9"
+          },
+          {
+            "page": 10,
+            "text": "10"
+          },
+          {
+            "page": 11,
+            "text": "11"
+          }
+        ],
+        "reading_order_correction": null,
+        "chars": 5246,
+        "text_sha256": "55f3f0d06964677074449839b02790cb9de85ccd649bbcc3d919dc85f1a64e3e"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第24号——套期保值(2006年版).pdf"
+    ],
+    "bytes": 16299,
+    "sha256": "a5527a6b4ad5ec19239137a4baf23073d915b93270d5f1ab8e38709c3cf8a2fc",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2006]3号",
+    "issue_date": "2006-02-15",
+    "issue_date_literal": "2006年2月15日",
+    "version_basis_url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2006/caizhengbuwengao20062/200805/t20080519_23694.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 24,
+    "year": 2017,
+    "name": "企业会计准则第24号——套期会计",
+    "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/201709/t20170908_2694624.htm",
+    "status": "现行",
+    "path": "准则/企业会计准则第24号——套期会计(2017年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/201709/t20170908_2694624.htm",
+        "source_path": "核验/网页/21aa3809d98024da.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "企业会计准则第24号——套期会计（财会〔2017〕9号）",
+        "chars": 9979,
+        "text_sha256": "1d9920cdbc2c9339cf9436c2fbdf73c351b59aef905cdc3f8f8fa734e7ac69cb"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第24号——套期会计(2017年版).pdf"
+    ],
+    "bytes": 30811,
+    "sha256": "c8a003ec6e2db34b9db78a8b20916b4f35b84136a8fe059c981c71fa9aca8bb3",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会〔2017〕9号",
+    "issue_date": "2017-03-31",
+    "issue_date_literal": "2017年3月31日",
+    "version_basis_url": "https://kjs.mof.gov.cn/zhengcefabu/201704/t20170406_2575705.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 25,
+    "year": 2006,
+    "name": "企业会计准则第25号——原保险合同",
+    "url": "https://www.mof.gov.cn/zhengwuxinxi/zhengcefabu/2006zcfb/200805/t20080519_23108.htm",
+    "status": "被2020年第25号替代; 暂缓执行新保险准则的企业继续适用",
+    "source_type": "archive",
+    "path": "准则/企业会计准则第25号——原保险合同(2006年版).md",
+    "sources": [
+      {
+        "type": "pdf",
+        "source_path": "附件/企业会计准则第25号——原保险合同(2006年版).pdf",
+        "extracted_path": "核验/提取文本/6bc613b1d554d7a0.txt",
+        "pages": 8,
+        "removed_page_numbers": [
+          {
+            "page": 1,
+            "text": "1"
+          },
+          {
+            "page": 2,
+            "text": "2"
+          },
+          {
+            "page": 3,
+            "text": "3"
+          },
+          {
+            "page": 4,
+            "text": "4"
+          },
+          {
+            "page": 5,
+            "text": "5"
+          },
+          {
+            "page": 6,
+            "text": "6"
+          },
+          {
+            "page": 7,
+            "text": "7"
+          },
+          {
+            "page": 8,
+            "text": "8"
+          }
+        ],
+        "reading_order_correction": null,
+        "chars": 3173,
+        "text_sha256": "6bbba7dd2bbb15bcd559651af1fdb106ce9c4e2f1b61d8633a3762c87e4d1eec"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第25号——原保险合同(2006年版).pdf"
+    ],
+    "bytes": 10067,
+    "sha256": "79fbaa4ad5067a86433879857f393319e418eda732075a99ea9b03a0e9590505",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2006]3号",
+    "issue_date": "2006-02-15",
+    "issue_date_literal": "2006年2月15日",
+    "version_basis_url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2006/caizhengbuwengao20062/200805/t20080519_23694.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 25,
+    "year": 2020,
+    "name": "企业会计准则第25号——保险合同",
+    "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/202202/t20220224_3790240.htm",
+    "status": "现行",
+    "path": "准则/企业会计准则第25号——保险合同(2020年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/202202/t20220224_3790240.htm",
+        "source_path": "核验/网页/086151dfb6098290.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "企业会计准则第25号——保险合同（财会〔2020〕20号）",
+        "chars": 21810,
+        "text_sha256": "9ee55aaf6fd3fecbcdefcb4d55e3591acb6fa704ce723f42024ffee69ef2d8bd"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第25号——保险合同(2020年版).pdf"
+    ],
+    "bytes": 66803,
+    "sha256": "b9f91af734f2039eba237594c40a275549f523ea909bc6cb68a162d36dae443e",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会〔2020〕20号",
+    "issue_date": "2020-12-19",
+    "issue_date_literal": "2020年12月19日",
+    "version_basis_url": "https://kjs.mof.gov.cn/gongzuodongtai/202012/t20201223_3636695.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 26,
+    "year": 2006,
+    "name": "企业会计准则第26号——再保险合同",
+    "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46222.htm",
+    "status": "被2020年第25号替代; 暂缓执行新保险准则的企业继续适用",
+    "path": "准则/企业会计准则第26号——再保险合同(2006年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46222.htm",
+        "source_path": "核验/网页/1a338fd1e3707d1c.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "企业会计准则第26号——再保险合同（财会〔2006〕3号）",
+        "chars": 2304,
+        "text_sha256": "1937ce13813c553604bd5861a70cfaf52aa7c2cc6e3034d2e040f2e6669c300d"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第26号——再保险合同(2006年版).pdf"
+    ],
+    "bytes": 7360,
+    "sha256": "71f21b16e6cf83f96e624d2e6d59d2124734ba7e9b357b4e05cdbefdbc5395c5",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2006]3号",
+    "issue_date": "2006-02-15",
+    "issue_date_literal": "2006年2月15日",
+    "version_basis_url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2006/caizhengbuwengao20062/200805/t20080519_23694.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 27,
+    "year": 2006,
+    "name": "企业会计准则第27号——石油天然气开采",
+    "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46221.htm",
+    "status": "现行",
+    "path": "准则/企业会计准则第27号——石油天然气开采(2006年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46221.htm",
+        "source_path": "核验/网页/08cf212f2a185521.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "企业会计准则第27号——石油天然气开采",
+        "chars": 3472,
+        "text_sha256": "cc3c61f38604ab72af9c4322dcb150feaa5b4d16047f5823df80e85e4176401c"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第27号——石油天然气开采(2006年版).pdf"
+    ],
+    "bytes": 10952,
+    "sha256": "5ecfa8071e625d9109cbc4c6d26670cc6503338386f93548225cb8b3f27b0d63",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2006]3号",
+    "issue_date": "2006-02-15",
+    "issue_date_literal": "2006年2月15日",
+    "version_basis_url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2006/caizhengbuwengao20062/200805/t20080519_23694.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 28,
+    "year": 2006,
+    "name": "企业会计准则第28号——会计政策、会计估计变更和差错更正",
+    "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46220.htm",
+    "status": "现行",
+    "path": "准则/企业会计准则第28号——会计政策、会计估计变更和差错更正(2006年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46220.htm",
+        "source_path": "核验/网页/f1459946803d6e53.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "企业会计准则第28号——会计政策、会计估计变更和差错更正",
+        "chars": 1958,
+        "text_sha256": "f44c6894ebeec7488b90ecf569e92d378a8bd64611d0d005c9058c669d434c3c"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第28号——会计政策、会计估计变更和差错更正(2006年版).pdf"
+    ],
+    "bytes": 6385,
+    "sha256": "19c373f934fd5ddf61c98d105e33f0124cc7b560b00bbdcb4e5454a6208631df",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2006]3号",
+    "issue_date": "2006-02-15",
+    "issue_date_literal": "2006年2月15日",
+    "version_basis_url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2006/caizhengbuwengao20062/200805/t20080519_23694.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 29,
+    "year": 2006,
+    "name": "企业会计准则第29号——资产负债表日后事项",
+    "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46219.htm",
+    "status": "现行",
+    "path": "准则/企业会计准则第29号——资产负债表日后事项(2006年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46219.htm",
+        "source_path": "核验/网页/47d525fd3ec63a99.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "企业会计准则第29号——资产负债表日后事项",
+        "chars": 1121,
+        "text_sha256": "c64d5dec33436b860dd967343872286feab384ce8be24a9afa2e9e0932a3d784"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第29号——资产负债表日后事项(2006年版).pdf"
+    ],
+    "bytes": 3806,
+    "sha256": "01130c3eee63d613b481bb996370df21dc6d5a05b9afe75221cb28032fa3950c",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2006]3号",
+    "issue_date": "2006-02-15",
+    "issue_date_literal": "2006年2月15日",
+    "version_basis_url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2006/caizhengbuwengao20062/200805/t20080519_23694.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 30,
+    "year": 2006,
+    "name": "企业会计准则第30号——财务报表列报",
+    "url": "https://www.mof.gov.cn/zhengwuxinxi/zhengcefabu/2006zcfb/200805/t20080519_23108.htm",
+    "status": "已同时废止",
+    "source_type": "archive",
+    "path": "准则/企业会计准则第30号——财务报表列报(2006年版).md",
+    "sources": [
+      {
+        "type": "pdf",
+        "source_path": "附件/企业会计准则第30号——财务报表列报(2006年版).pdf",
+        "extracted_path": "核验/提取文本/9767c8ce7df1a834.txt",
+        "pages": 10,
+        "removed_page_numbers": [
+          {
+            "page": 1,
+            "text": "1"
+          },
+          {
+            "page": 2,
+            "text": "2"
+          },
+          {
+            "page": 3,
+            "text": "3"
+          },
+          {
+            "page": 4,
+            "text": "4"
+          },
+          {
+            "page": 5,
+            "text": "5"
+          },
+          {
+            "page": 6,
+            "text": "6"
+          },
+          {
+            "page": 7,
+            "text": "7"
+          },
+          {
+            "page": 8,
+            "text": "8"
+          },
+          {
+            "page": 9,
+            "text": "9"
+          },
+          {
+            "page": 10,
+            "text": "10"
+          }
+        ],
+        "reading_order_correction": null,
+        "chars": 3538,
+        "text_sha256": "f26d82914c56a1777bbf7471f073f2a80b9e51c59bde73920323b345d978d656"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第30号——财务报表列报(2006年版).pdf"
+    ],
+    "bytes": 11238,
+    "sha256": "90d326b02309eef7f988ea7d85c632c731f49a3be416ec18d386e8d20349ad07",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2006]3号",
+    "issue_date": "2006-02-15",
+    "issue_date_literal": "2006年2月15日",
+    "version_basis_url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2006/caizhengbuwengao20062/200805/t20080519_23694.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 30,
+    "year": 2014,
+    "name": "企业会计准则第30号——财务报表列报",
+    "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46218.htm",
+    "status": "未执行2026年版企业继续适用",
+    "path": "准则/企业会计准则第30号——财务报表列报(2014年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46218.htm",
+        "source_path": "核验/网页/6792456cbb06c6c5.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "企业会计准则第30号——财务报表列报（财会〔2014〕7号）",
+        "chars": 6738,
+        "text_sha256": "5aacf6eed29e184c93208744607922756b5171b43a633e777770ee9fa695bd5e"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第30号——财务报表列报(2014年版).pdf"
+    ],
+    "bytes": 20914,
+    "sha256": "49532b8acc4f3ca054cb0c8d950c59c7e3ef905197b12e229c811a9c26ec40e2",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2014]7号",
+    "issue_date": "2014-01-26",
+    "issue_date_literal": "2014年01月26日",
+    "version_basis_url": "https://www.mof.gov.cn/gp/xxgkml/hjs/201401/t20140129_2512600.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 30,
+    "year": 2026,
+    "name": "企业会计准则第30号——财务报表列报",
+    "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/202608/t20260806_3995008.htm",
+    "status": "待分批施行, 可提前执行",
+    "path": "准则/企业会计准则第30号——财务报表列报(2026年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zhengcefabu/202608/t20260805_3994927.htm",
+        "source_path": "核验/网页/d5ec669a2d370d77.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "关于印发《企业会计准则第30号——财务报表列报》的通知",
+        "chars": 14104,
+        "text_sha256": "fc03ca02cbc384541df76b861b098415bfbd77ed3b128ae8307611638bab2612"
+      }
+    ],
+    "attachments": [],
+    "bytes": 43249,
+    "sha256": "734f81253dfcb6f9ff5d56c47a692c289d410a870f8d796a018f434d3f4c7714",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会〔2026〕11号",
+    "issue_date": "2026-07-24",
+    "issue_date_literal": "2026年7月24日",
+    "version_basis_url": "https://kjs.mof.gov.cn/zhengcefabu/202608/t20260805_3994927.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 31,
+    "year": 2006,
+    "name": "企业会计准则第31号——现金流量表",
+    "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46250.htm",
+    "status": "现行",
+    "path": "准则/企业会计准则第31号——现金流量表(2006年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46250.htm",
+        "source_path": "核验/网页/149bf2108f435219.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "企业会计准则第31号——现金流量表",
+        "chars": 2019,
+        "text_sha256": "e0de821a14edf3ea89cb84da3f0528c581c4b8eade3b9c33994502617717894e"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第31号——现金流量表(2006年版).pdf"
+    ],
+    "bytes": 6621,
+    "sha256": "d3dcc0c038ebbd109e444d38ed9d343f75b18944437eeaaf4202ab7e99e3820e",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2006]3号",
+    "issue_date": "2006-02-15",
+    "issue_date_literal": "2006年2月15日",
+    "version_basis_url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2006/caizhengbuwengao20062/200805/t20080519_23694.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 32,
+    "year": 2006,
+    "name": "企业会计准则第32号——中期财务报告",
+    "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46249.htm",
+    "status": "现行",
+    "path": "准则/企业会计准则第32号——中期财务报告(2006年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46249.htm",
+        "source_path": "核验/网页/f44b7e9c5bfd6666.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "企业会计准则第32号——中期财务报告",
+        "chars": 2413,
+        "text_sha256": "132cd8bed0fe0bbeeb1e8257fea90496ff28c3f39aa2b78ce5b7a9eb6847d9f8"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第32号——中期财务报告(2006年版).pdf"
+    ],
+    "bytes": 7712,
+    "sha256": "4e23a99d81f882b0d2baa4e8d384b09ca9ed3e32eacfdb7be24e9e4c2b65978f",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2006]3号",
+    "issue_date": "2006-02-15",
+    "issue_date_literal": "2006年2月15日",
+    "version_basis_url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2006/caizhengbuwengao20062/200805/t20080519_23694.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 33,
+    "year": 2006,
+    "name": "企业会计准则第33号——合并财务报表",
+    "url": "https://www.mof.gov.cn/zhengwuxinxi/zhengcefabu/2006zcfb/200805/t20080519_23108.htm",
+    "status": "已同时废止",
+    "source_type": "archive",
+    "path": "准则/企业会计准则第33号——合并财务报表(2006年版).md",
+    "sources": [
+      {
+        "type": "pdf",
+        "source_path": "附件/企业会计准则第33号——合并财务报表(2006年版).pdf",
+        "extracted_path": "核验/提取文本/f931c1780cb9b065.txt",
+        "pages": 10,
+        "removed_page_numbers": [
+          {
+            "page": 1,
+            "text": "1"
+          },
+          {
+            "page": 2,
+            "text": "2"
+          },
+          {
+            "page": 3,
+            "text": "3"
+          },
+          {
+            "page": 4,
+            "text": "4"
+          },
+          {
+            "page": 5,
+            "text": "5"
+          },
+          {
+            "page": 6,
+            "text": "6"
+          },
+          {
+            "page": 7,
+            "text": "7"
+          },
+          {
+            "page": 8,
+            "text": "8"
+          },
+          {
+            "page": 9,
+            "text": "9"
+          },
+          {
+            "page": 10,
+            "text": "10"
+          }
+        ],
+        "reading_order_correction": null,
+        "chars": 4491,
+        "text_sha256": "a0670fcdd0637d412b24dff1083c2f9a64e1bf6045a89dfb87f940b3ca6bd073"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第33号——合并财务报表(2006年版).pdf"
+    ],
+    "bytes": 14098,
+    "sha256": "fddf5c2bac4844d58d52f2ae87b8f7bb52236e3bbb83a8d209d0a9425ba6017a",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2006]3号",
+    "issue_date": "2006-02-15",
+    "issue_date_literal": "2006年2月15日",
+    "version_basis_url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2006/caizhengbuwengao20062/200805/t20080519_23694.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 33,
+    "year": 2014,
+    "name": "企业会计准则第33号——合并财务报表",
+    "url": "https://kjs.mof.gov.cn/zhengcefabu/201402/t20140220_1045206.htm",
+    "status": "现行",
+    "path": "准则/企业会计准则第33号——合并财务报表(2014年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zhengcefabu/201402/t20140220_1045206.htm",
+        "source_path": "核验/网页/900d87971aa9811a.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "关于印发修订《企业会计准则第33号——合并财务报表》的通知",
+        "chars": 9392,
+        "text_sha256": "4a806893e822efb543f3403a56e2a35eda435beb5181c1b9e6b7713bf9eccf2e"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第33号——合并财务报表(2014年版).pdf"
+    ],
+    "bytes": 28792,
+    "sha256": "af3dcd5592ee826051710b2e80711832be8ebd4b24b5daec6657128cfbeac198",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2014]10号",
+    "issue_date": "2014-02-17",
+    "issue_date_literal": "2014年2月17日",
+    "version_basis_url": "https://kjs.mof.gov.cn/zhengcefabu/201402/t20140220_1045206.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 34,
+    "year": 2006,
+    "name": "企业会计准则第34号——每股收益",
+    "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46247.htm",
+    "status": "现行",
+    "path": "准则/企业会计准则第34号——每股收益(2006年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46247.htm",
+        "source_path": "核验/网页/0ff812f1bbfb2373.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "企业会计准则第34号——每股收益",
+        "chars": 1719,
+        "text_sha256": "9298f9ac4c94454b185c4440e95e3d48fe71d97ac08e4c9edbbeb0838fe2e876"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第34号——每股收益(2006年版).pdf"
+    ],
+    "bytes": 5620,
+    "sha256": "c800f72d1e0db66e8ed33a035a746227ce72cf27f75955a841f4624760139657",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2006]3号",
+    "issue_date": "2006-02-15",
+    "issue_date_literal": "2006年2月15日",
+    "version_basis_url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2006/caizhengbuwengao20062/200805/t20080519_23694.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 35,
+    "year": 2006,
+    "name": "企业会计准则第35号——分部报告",
+    "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46246.htm",
+    "status": "现行",
+    "path": "准则/企业会计准则第35号——分部报告(2006年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46246.htm",
+        "source_path": "核验/网页/183c777ac5e01661.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "企业会计准则第35号——分部报告",
+        "chars": 3004,
+        "text_sha256": "4f966a4e51b54e084fd31c7e5333454ce1f2150b7ee16ecc7d3d279d7e3bd8b7"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第35号——分部报告(2006年版).pdf"
+    ],
+    "bytes": 9499,
+    "sha256": "86fc2fd95956b6dbf3c6feed46a381eceeeaff6582b94f6696fb3dd594a8e901",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2006]3号",
+    "issue_date": "2006-02-15",
+    "issue_date_literal": "2006年2月15日",
+    "version_basis_url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2006/caizhengbuwengao20062/200805/t20080519_23694.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 36,
+    "year": 2006,
+    "name": "企业会计准则第36号——关联方披露",
+    "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46245.htm",
+    "status": "现行",
+    "path": "准则/企业会计准则第36号——关联方披露(2006年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46245.htm",
+        "source_path": "核验/网页/dc7a2052e570f454.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "企业会计准则第36号——关联方披露",
+        "chars": 1554,
+        "text_sha256": "a48cecd7c12f4fad6f148719f06ef3487e3342279b0fa3cf223fc2c2ccab4e0a"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第36号——关联方披露(2006年版).pdf"
+    ],
+    "bytes": 5154,
+    "sha256": "f84c7ad8391cdc76c6cfd07c1eae5f7c96a7606fdd2681e35d525f1c9a641ec6",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2006]3号",
+    "issue_date": "2006-02-15",
+    "issue_date_literal": "2006年2月15日",
+    "version_basis_url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2006/caizhengbuwengao20062/200805/t20080519_23694.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 37,
+    "year": 2006,
+    "name": "企业会计准则第37号——金融工具列报",
+    "url": "https://www.mof.gov.cn/zhengwuxinxi/zhengcefabu/2006zcfb/200805/t20080519_23108.htm",
+    "status": "已同时废止",
+    "source_type": "archive",
+    "path": "准则/企业会计准则第37号——金融工具列报(2006年版).md",
+    "sources": [
+      {
+        "type": "pdf",
+        "source_path": "附件/企业会计准则第37号——金融工具列报(2006年版).pdf",
+        "extracted_path": "核验/提取文本/2f30ba238708f00f.txt",
+        "pages": 15,
+        "removed_page_numbers": [
+          {
+            "page": 1,
+            "text": "1"
+          },
+          {
+            "page": 2,
+            "text": "2"
+          },
+          {
+            "page": 3,
+            "text": "3"
+          },
+          {
+            "page": 4,
+            "text": "4"
+          },
+          {
+            "page": 5,
+            "text": "5"
+          },
+          {
+            "page": 6,
+            "text": "6"
+          },
+          {
+            "page": 7,
+            "text": "7"
+          },
+          {
+            "page": 8,
+            "text": "8"
+          },
+          {
+            "page": 9,
+            "text": "9"
+          },
+          {
+            "page": 10,
+            "text": "10"
+          },
+          {
+            "page": 11,
+            "text": "11"
+          },
+          {
+            "page": 12,
+            "text": "12"
+          },
+          {
+            "page": 13,
+            "text": "13"
+          },
+          {
+            "page": 14,
+            "text": "14"
+          },
+          {
+            "page": 15,
+            "text": "15"
+          }
+        ],
+        "reading_order_correction": null,
+        "chars": 6967,
+        "text_sha256": "a1ab3065d459d7d4a8f96e09872ca3196d63c9a5863984eacbb7a7402015ced0"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第37号——金融工具列报(2006年版).pdf"
+    ],
+    "bytes": 21600,
+    "sha256": "2c8d27ff60d71a07d7cc1dd72b98e4b14f71f79e309c6ce371ec4a5ec900a674",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2006]3号",
+    "issue_date": "2006-02-15",
+    "issue_date_literal": "2006年2月15日",
+    "version_basis_url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2006/caizhengbuwengao20062/200805/t20080519_23694.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 37,
+    "year": 2014,
+    "name": "企业会计准则第37号——金融工具列报",
+    "url": "https://kjs.mof.gov.cn/zhengcefabu/201407/t20140711_1111980.htm",
+    "status": "执行2017年版后不再执行",
+    "path": "准则/企业会计准则第37号——金融工具列报(2014年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zhengcefabu/201407/t20140711_1111980.htm",
+        "source_path": "核验/网页/2a246248a6d16328.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "关于印发修订《企业会计准则第37号——金融工具列报》的通知",
+        "chars": 16756,
+        "text_sha256": "2dbbdb4b30967265821e55c94c32a251f767cbae40dd3768813050e656dc3f4a"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第37号——金融工具列报(2014年版).pdf"
+    ],
+    "bytes": 51121,
+    "sha256": "d7c9f53b04dadcb0abce580990ea97d198413910c72a65694f9fa375924e8030",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2014]23号",
+    "issue_date": "2014-06-20",
+    "issue_date_literal": "2014年6月20日",
+    "version_basis_url": "https://kjs.mof.gov.cn/zhengcefabu/201407/t20140711_1111980.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 37,
+    "year": 2017,
+    "name": "企业会计准则第37号——金融工具列报",
+    "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/201709/t20170907_2694118.htm",
+    "status": "现行",
+    "path": "准则/企业会计准则第37号——金融工具列报(2017年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/201709/t20170907_2694118.htm",
+        "source_path": "核验/网页/3ec1cf147d95af7c.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "企业会计准则第37号——金融工具列报（财会〔2017〕14号）",
+        "chars": 24074,
+        "text_sha256": "269accc1b97159cd52e3ba28c13a5c645328e330fba6cdf485e96473f8259bf4"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第37号——金融工具列报(2017年版).pdf"
+    ],
+    "bytes": 73530,
+    "sha256": "ee44435a027f78a9bc0518d03c45382ce492a7c512f0248e2d9f267c21978070",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会〔2017〕14号",
+    "issue_date": "2017-05-02",
+    "issue_date_literal": "2017年5月2日",
+    "version_basis_url": "https://kjs.mof.gov.cn/zhengcefabu/201705/t20170515_2600144.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 38,
+    "year": 2006,
+    "name": "企业会计准则第38号——首次执行企业会计准则",
+    "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46243.htm",
+    "status": "现行",
+    "path": "准则/企业会计准则第38号——首次执行企业会计准则(2006年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/200806/t20080618_46243.htm",
+        "source_path": "核验/网页/231e6d418d4f0c1a.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "企业会计准则第38号——首次执行企业会计准则",
+        "chars": 2912,
+        "text_sha256": "d43651d810973c7c889509cfc558fac402c061eb08e03c670db437986f918c73"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第38号——首次执行企业会计准则(2006年版).pdf"
+    ],
+    "bytes": 9148,
+    "sha256": "adc8a50c3a4b31a6468bca58dc9fa20090778ecd2a674f23adbdcd851228ec27",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2006]3号",
+    "issue_date": "2006-02-15",
+    "issue_date_literal": "2006年2月15日",
+    "version_basis_url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2006/caizhengbuwengao20062/200805/t20080519_23694.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 39,
+    "year": 2014,
+    "name": "企业会计准则第39号——公允价值计量",
+    "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/201512/t20151208_1602631.htm",
+    "status": "现行",
+    "path": "准则/企业会计准则第39号——公允价值计量(2014年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/201512/t20151208_1602631.htm",
+        "source_path": "核验/网页/436619baa0e710f3.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "企业会计准则第39号——公允价值计量",
+        "chars": 10059,
+        "text_sha256": "81dd20a436f05a5ced24d1d40294b9c0d2e4fb3f2993bf651fd937237759dc00"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第39号——公允价值计量(2014年版).pdf"
+    ],
+    "bytes": 30865,
+    "sha256": "7ceba03e91c8321a302e61a1995dfe4f8dce80e82bebe086924659e82673157d",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2014]6号",
+    "issue_date": "2014-01-26",
+    "issue_date_literal": "2014年1月26日",
+    "version_basis_url": "https://kjs.mof.gov.cn/zhengcefabu/201401/t20140128_1040392.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 40,
+    "year": 2014,
+    "name": "企业会计准则第40号——合营安排",
+    "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/201512/t20151208_1602633.htm",
+    "status": "现行",
+    "path": "准则/企业会计准则第40号——合营安排(2014年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/201512/t20151208_1602633.htm",
+        "source_path": "核验/网页/da616fc0687d25d0.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "企业会计准则第40号——合营安排",
+        "chars": 2630,
+        "text_sha256": "ec5b654d4249f47890bf2d662de7af89a033976c50d72826a9d0bcd003e0a8e2"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第40号——合营安排(2014年版).pdf"
+    ],
+    "bytes": 8328,
+    "sha256": "2c9f32a06939d86aba4204ff2165ff66d59122a9ecc651355e44c79deb2ca702",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2014]11号",
+    "issue_date": "2014-02-17",
+    "issue_date_literal": "2014年2月17日",
+    "version_basis_url": "https://kjs.mof.gov.cn/zhengcefabu/201402/t20140220_1045209.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 41,
+    "year": 2014,
+    "name": "企业会计准则第41号——在其他主体中权益的披露",
+    "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/201512/t20151208_1602637.htm",
+    "status": "现行",
+    "path": "准则/企业会计准则第41号——在其他主体中权益的披露(2014年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/201512/t20151208_1602637.htm",
+        "source_path": "核验/网页/23a17bb26ec2d531.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "企业会计准则第41号——在其他主体中权益的披露",
+        "chars": 4708,
+        "text_sha256": "a3ffb2896123674845a6cecc5eeb0ae4b3095ad250973e3b3e46a63ed209d65f"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第41号——在其他主体中权益的披露(2014年版).pdf"
+    ],
+    "bytes": 14596,
+    "sha256": "c5d3f2955ebb2eba908afc33b8c33c5c7b84020b2f738979ebd13506bdd7fd4e",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2014]16号",
+    "issue_date": "2014-03-14",
+    "issue_date_literal": "2014年3月14日",
+    "version_basis_url": "https://kjs.mof.gov.cn/zhengcefabu/201403/t20140327_1060353.htm"
+  },
+  {
+    "kind": "准则",
+    "number": 42,
+    "year": 2017,
+    "name": "企业会计准则第42号——持有待售的非流动资产、处置组和终止经营",
+    "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/201709/t20170907_2694145.htm",
+    "status": "现行",
+    "path": "准则/企业会计准则第42号——持有待售的非流动资产、处置组和终止经营(2017年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zt/kjzzss/kuaijizhunzeshishi/201709/t20170907_2694145.htm",
+        "source_path": "核验/网页/e188800b9ab5115c.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "企业会计准则第42号——持有待售的非流动资产、处置组和终止经营",
+        "chars": 4518,
+        "text_sha256": "d82069ecab601162458930cb5c2ea0ac840ae7750d35383c4928a7641077df7f"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则第42号——持有待售的非流动资产、处置组和终止经营(2017年版).pdf"
+    ],
+    "bytes": 14050,
+    "sha256": "8ba81a0310d1df8dfece414e406676158c4d2ff6f584f8b3717b2699df96174a",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会〔2017〕13号",
+    "issue_date": "2017-04-28",
+    "issue_date_literal": "2017年4月28日",
+    "version_basis_url": "https://kjs.mof.gov.cn/zhengcefabu/201705/t20170516_2601445.htm"
+  },
+  {
+    "kind": "解释",
+    "number": 1,
+    "year": 2007,
+    "name": "企业会计准则解释第1号",
+    "url": "https://kjs.mof.gov.cn/zhengcefabu/200805/t20080522_33804.htm",
+    "status": "各项施行及适用关系见README解释表",
+    "path": "解释/企业会计准则解释第1号(2007年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zhengcefabu/200805/t20080522_33804.htm",
+        "source_path": "核验/网页/685854648e8a3094.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "关于印发《企业会计准则解释第1号》的通知",
+        "chars": 179,
+        "text_sha256": "87e9320f884e48436f32cdeac41c3aa8f7cf542aab7be2aa8ff89ce97820ddac"
+      },
+      {
+        "type": "doc",
+        "source_path": "附件/企业会计准则解释第1号(2007年版).doc",
+        "extracted_path": "核验/提取文本/238e071b27f5720d.txt",
+        "chars": 3784,
+        "text_sha256": "bc2a1ba47a45a988926ee274c2c87114d9e2a779800a76c9b7b0b97b7b7ed142"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则解释第1号(2007年版).doc"
+    ],
+    "bytes": 12311,
+    "sha256": "c4905555e2c1bd03de07ec1158705dea5a3ffb5720c09844456f3da826569c9a",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会[2007]14号",
+    "issue_date": "2007-11-16",
+    "issue_date_literal": "2007年11月16日",
+    "version_basis_url": "https://www.mof.gov.cn/gkml/caizhengwengao/caizhengbuwengao2008/caizhengbuwengao20081/200805/t20080519_29002.htm"
+  },
+  {
+    "kind": "解释",
+    "number": 2,
+    "year": 2008,
+    "name": "企业会计准则解释第2号",
+    "url": "https://kjs.mof.gov.cn/zhengcefabu/200809/t20080912_74645.htm",
+    "status": "各项施行及适用关系见README解释表",
+    "path": "解释/企业会计准则解释第2号(2008年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zhengcefabu/200809/t20080912_74645.htm",
+        "source_path": "核验/网页/c579a9aa3a0fabd8.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "关于印发企业会计准则解释第2号的通知",
+        "chars": 186,
+        "text_sha256": "3975b98fd94116ddbf55fe9974364d6268d0d800894ee592a35f5a7d58813c2d"
+      },
+      {
+        "type": "doc",
+        "source_path": "附件/企业会计准则解释第2号(2008年版).doc",
+        "extracted_path": "核验/提取文本/6c0d739297b87b0f.txt",
+        "chars": 2691,
+        "text_sha256": "07f6b62ecf317f9b7cb274e970bc379298d3c2a3bbc9361885fe30385d90a23b"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则解释第2号(2008年版).doc"
+    ],
+    "bytes": 8962,
+    "sha256": "e1aa3ee4763546bf5fbe305c0aaec8ebc1f65b63f9a84fe19e5e63ae1bd3d402",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会〔2008〕11号",
+    "issue_date": "2008-08-07",
+    "issue_date_literal": "二〇〇八年八月七日",
+    "version_basis_url": "https://kjs.mof.gov.cn/zhengcefabu/200809/t20080912_74645.htm"
+  },
+  {
+    "kind": "解释",
+    "number": 3,
+    "year": 2009,
+    "name": "企业会计准则解释第3号",
+    "url": "https://kjs.mof.gov.cn/zhengcefabu/200906/t20090625_172281.htm",
+    "status": "各项施行及适用关系见README解释表",
+    "path": "解释/企业会计准则解释第3号(2009年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zhengcefabu/200906/t20090625_172281.htm",
+        "source_path": "核验/网页/68de606e64087809.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "关于印发企业会计准则解释第3号的通知",
+        "chars": 214,
+        "text_sha256": "ac2a6c13fc7b50b53cfe8b21979dd064f99d1da11d83c54370fa1455757c3f1b"
+      },
+      {
+        "type": "doc",
+        "source_path": "附件/企业会计准则解释第3号(2009年版).doc",
+        "extracted_path": "核验/提取文本/e88874e4f39c185d.txt",
+        "chars": 3303,
+        "text_sha256": "a442d1aa4d8781866b3af210039a70a436d8eb7e5d2a48b6c9633cd483dfd0a1"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则解释第3号(2009年版).doc"
+    ],
+    "bytes": 10943,
+    "sha256": "70cec50e7bded6069688b93b5e743a4c53c5c835994444b0f31c25954ca8115d",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会〔2009〕8号",
+    "issue_date": "2009-06-11",
+    "issue_date_literal": "二〇〇九年六月十一日",
+    "version_basis_url": "https://kjs.mof.gov.cn/zhengcefabu/200906/t20090625_172281.htm"
+  },
+  {
+    "kind": "解释",
+    "number": 4,
+    "year": 2010,
+    "name": "企业会计准则解释第4号",
+    "url": "https://kjs.mof.gov.cn/zhengcefabu/201008/t20100809_332092.htm",
+    "status": "各项施行及适用关系见README解释表",
+    "path": "解释/企业会计准则解释第4号(2010年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zhengcefabu/201008/t20100809_332092.htm",
+        "source_path": "核验/网页/796adc458778d397.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "关于印发企业会计准则解释第4号的通知",
+        "chars": 3499,
+        "text_sha256": "cba0a64b3e7649aad692da23fccdcd2ef68f99ee9510ba29288f5947b4e991a3"
+      }
+    ],
+    "attachments": [],
+    "bytes": 10817,
+    "sha256": "b8be26456a2d74ec0d39635565b0748e183134bbe9dcc6146d1e6eb969e226db",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会〔2010〕15号",
+    "issue_date": "2010-07-14",
+    "issue_date_literal": "二〇一〇年七月十四日",
+    "version_basis_url": "https://kjs.mof.gov.cn/zhengcefabu/201008/t20100809_332092.htm"
+  },
+  {
+    "kind": "解释",
+    "number": 5,
+    "year": 2012,
+    "name": "企业会计准则解释第5号",
+    "url": "https://kjs.mof.gov.cn/zhengcefabu/201211/t20121122_701308.htm",
+    "status": "各项施行及适用关系见README解释表",
+    "path": "解释/企业会计准则解释第5号(2012年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zhengcefabu/201211/t20121122_701308.htm",
+        "source_path": "核验/网页/99cedb5c1e787f8e.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "关于印发企业会计准则解释第5号的通知",
+        "chars": 3045,
+        "text_sha256": "a10feee8bf15c5a5b3c65b112fa4b3198cec4cd4c474ce1e31a1bfd49419434d"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则解释第5号(2012年版).doc"
+    ],
+    "bytes": 9394,
+    "sha256": "19676e580c3b753354ae3994598bfa7692d826695fd3570d2e6e8b34418bc467",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会〔2012〕19号",
+    "issue_date": "2012-11-05",
+    "issue_date_literal": "2012年11月5日",
+    "version_basis_url": "https://kjs.mof.gov.cn/zhengcefabu/201211/t20121122_701308.htm"
+  },
+  {
+    "kind": "解释",
+    "number": 6,
+    "year": 2014,
+    "name": "企业会计准则解释第6号",
+    "url": "https://kjs.mof.gov.cn/zhengcefabu/201401/t20140123_1038629.htm",
+    "status": "各项施行及适用关系见README解释表",
+    "path": "解释/企业会计准则解释第6号(2014年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zhengcefabu/201401/t20140123_1038629.htm",
+        "source_path": "核验/网页/4fa459bc66fe517b.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "关于印发《企业会计准则解释第6号》的通知",
+        "chars": 1084,
+        "text_sha256": "55230e65ac127d29bc1dfee39df48d62bd49f4f949612db6ae4a4cca1f5a602a"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则解释第6号(2014年版).doc"
+    ],
+    "bytes": 3556,
+    "sha256": "438ec3c0027fad16e789845f6e291b4d158dd715fea835fb51e9eb90175ac162",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会〔2014〕1号",
+    "issue_date": "2014-01-17",
+    "issue_date_literal": "2014年1月17日",
+    "version_basis_url": "https://kjs.mof.gov.cn/zhengcefabu/201401/t20140123_1038629.htm"
+  },
+  {
+    "kind": "解释",
+    "number": 7,
+    "year": 2015,
+    "name": "企业会计准则解释第7号",
+    "url": "https://kjs.mof.gov.cn/zhengcefabu/201511/t20151113_1559056.htm",
+    "status": "各项施行及适用关系见README解释表",
+    "path": "解释/企业会计准则解释第7号(2015年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zhengcefabu/201511/t20151113_1559056.htm",
+        "source_path": "核验/网页/cf56f6768876b55c.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "关于印发《企业会计准则解释第7号》的通知",
+        "chars": 5183,
+        "text_sha256": "5a1a7e931f154a0703d58db05e6c184d5692d3796fd7c9b555d1a4c1b06b3aa4"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则解释第7号(2015年版).pdf"
+    ],
+    "bytes": 15845,
+    "sha256": "93910a37d921be12c37e794b2c7bb6be15d547c9f582961d9d5c86332a39eee7",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会〔2015〕19号",
+    "issue_date": "2015-11-04",
+    "issue_date_literal": "2015年11月4日",
+    "version_basis_url": "https://kjs.mof.gov.cn/zhengcefabu/201511/t20151113_1559056.htm"
+  },
+  {
+    "kind": "解释",
+    "number": 8,
+    "year": 2015,
+    "name": "企业会计准则解释第8号",
+    "url": "https://kjs.mof.gov.cn/zhengcefabu/201601/t20160104_1643346.htm",
+    "status": "各项施行及适用关系见README解释表",
+    "path": "解释/企业会计准则解释第8号(2015年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zhengcefabu/201601/t20160104_1643346.htm",
+        "source_path": "核验/网页/ed074ed439d79d10.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "关于印发《企业会计准则解释第8号》的通知",
+        "chars": 2783,
+        "text_sha256": "f4ae8f630b72868df14b6427155625f60be51c7e5f6cd0fa36670f364c272fa1"
+      }
+    ],
+    "attachments": [],
+    "bytes": 8661,
+    "sha256": "9ab65beadd1ad120c4483b3a3c59ea130f07daa31b327c5c68a64431984ed10e",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会〔2015〕23号",
+    "issue_date": "2015-12-16",
+    "issue_date_literal": "2015年12月16日",
+    "version_basis_url": "https://kjs.mof.gov.cn/zhengcefabu/201601/t20160104_1643346.htm"
+  },
+  {
+    "kind": "解释",
+    "number": 9,
+    "year": 2017,
+    "name": "企业会计准则解释第9号——关于权益法下有关投资净损失的会计处理",
+    "url": "https://kjs.mof.gov.cn/zhengcefabu/201706/t20170621_2628433.htm",
+    "status": "各项施行及适用关系见README解释表",
+    "path": "解释/企业会计准则解释第9号——关于权益法下有关投资净损失的会计处理(2017年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zhengcefabu/201706/t20170621_2628433.htm",
+        "source_path": "核验/网页/e5028c25f81b2ba4.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "关于印发《企业会计准则解释第9号——关于权益法下投资净损失的会计处理》的通知",
+        "chars": 276,
+        "text_sha256": "c543315ea36dfde1c953aace852f7ed49330407ecca6bde3a2be5b989e178795"
+      },
+      {
+        "type": "docx",
+        "source_path": "附件/企业会计准则解释第9号——关于权益法下有关投资净损失的会计处理(2017年版).docx",
+        "extracted_path": "核验/提取文本/a9ec0ba0918349b4.txt",
+        "chars": 926,
+        "text_sha256": "2a8fae07be92b2bf8a00d1abce400625cce0b3afcc9f1d7bd6136cc3ef0c5f0b"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则解释第9号——关于权益法下有关投资净损失的会计处理(2017年版).docx"
+    ],
+    "bytes": 4016,
+    "sha256": "6375da1c48adbd1f3adba39526d4875e6fa716e70742c30043e9904d434d8533",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会〔2017〕16号",
+    "issue_date": "2017-06-12",
+    "issue_date_literal": "2017年6月12日",
+    "version_basis_url": "https://kjs.mof.gov.cn/zhengcefabu/201706/t20170621_2628433.htm"
+  },
+  {
+    "kind": "解释",
+    "number": 10,
+    "year": 2017,
+    "name": "企业会计准则解释第10号——关于以使用固定资产产生的收入为基础的折旧方法",
+    "url": "https://kjs.mof.gov.cn/zhengcefabu/201706/t20170621_2628435.htm",
+    "status": "各项施行及适用关系见README解释表",
+    "path": "解释/企业会计准则解释第10号——关于以使用固定资产产生的收入为基础的折旧方法(2017年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zhengcefabu/201706/t20170621_2628435.htm",
+        "source_path": "核验/网页/78bde27f98815999.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "关于印发《企业会计准则解释第10号——关于以使用固定资产产生的收入为基础的折旧方法》的通知",
+        "chars": 297,
+        "text_sha256": "d2a309e6de4332e37cb36cb0e2b01c4ba3937918e763bafb3be7e3a888c5827c"
+      },
+      {
+        "type": "docx",
+        "source_path": "附件/企业会计准则解释第10号——关于以使用固定资产产生的收入为基础的折旧方法(2017年版).docx",
+        "extracted_path": "核验/提取文本/d6606a23f57bfaef.txt",
+        "chars": 502,
+        "text_sha256": "9967c4f0e9f82856cdc824de590627cc8830ef537286965573c00555d211794a"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则解释第10号——关于以使用固定资产产生的收入为基础的折旧方法(2017年版).docx"
+    ],
+    "bytes": 2812,
+    "sha256": "d18241d210d9a067532dd4a1e44f2aed16ab88fd21d8372d9ee460069e1cfe52",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会〔2017〕17号",
+    "issue_date": "2017-06-12",
+    "issue_date_literal": "2017年6月12日",
+    "version_basis_url": "https://kjs.mof.gov.cn/zhengcefabu/201706/t20170621_2628435.htm"
+  },
+  {
+    "kind": "解释",
+    "number": 11,
+    "year": 2017,
+    "name": "企业会计准则解释第11号——关于以使用无形资产产生的收入为基础的摊销方法",
+    "url": "https://kjs.mof.gov.cn/zhengcefabu/201706/t20170621_2628437.htm",
+    "status": "各项施行及适用关系见README解释表",
+    "path": "解释/企业会计准则解释第11号——关于以使用无形资产产生的收入为基础的摊销方法(2017年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zhengcefabu/201706/t20170621_2628437.htm",
+        "source_path": "核验/网页/a5e977211fabad64.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "关于印发《企业会计准则解释第11号——关于以使用无形资产产生的收入为基础的摊销方法》的通知",
+        "chars": 297,
+        "text_sha256": "60fb343b8ad8b28f251f41f8546bc65bb19468e0af4eb46fcd8db2a6c6530784"
+      },
+      {
+        "type": "docx",
+        "source_path": "附件/企业会计准则解释第11号——关于以使用无形资产产生的收入为基础的摊销方法(2017年版).docx",
+        "extracted_path": "核验/提取文本/30bb9b1b10320779.txt",
+        "chars": 758,
+        "text_sha256": "f1d5f3426e2b6e62d923489b3ff1a204611b5dfbbcb68538c215d64bcae4898d"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则解释第11号——关于以使用无形资产产生的收入为基础的摊销方法(2017年版).docx"
+    ],
+    "bytes": 3573,
+    "sha256": "ec23b203f4e6bac60ff0a36f0d3f89368afb48efd5431340f03db0c52f5d961a",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会〔2017〕18号",
+    "issue_date": "2017-06-12",
+    "issue_date_literal": "2017年6月12日",
+    "version_basis_url": "https://kjs.mof.gov.cn/zhengcefabu/201706/t20170621_2628437.htm"
+  },
+  {
+    "kind": "解释",
+    "number": 12,
+    "year": 2017,
+    "name": "企业会计准则解释第12号——关于关键管理人员服务的提供方与接受方是否为关联方",
+    "url": "https://kjs.mof.gov.cn/zhengcefabu/201706/t20170621_2628439.htm",
+    "status": "各项施行及适用关系见README解释表",
+    "path": "解释/企业会计准则解释第12号——关于关键管理人员服务的提供方与接受方是否为关联方(2017年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zhengcefabu/201706/t20170621_2628439.htm",
+        "source_path": "核验/网页/d894e0b3481551e4.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "关于印发《企业会计准则解释第12号——关于关键管理人员服务的提供方与接受方是否为关联方》的通知",
+        "chars": 303,
+        "text_sha256": "fdc4127a3a9b22e434661d9aecb14f6e8447c6fa4aa9806bb195d0cc7a306af4"
+      },
+      {
+        "type": "docx",
+        "source_path": "附件/企业会计准则解释第12号——关于关键管理人员服务的提供方与接受方是否为关联方(2017年版).docx",
+        "extracted_path": "核验/提取文本/2ebdf20ba6f932c2.txt",
+        "chars": 555,
+        "text_sha256": "762b6dc3a37fa62b964a64b332dc969a98fe4f03fd9bb049d48843e480c35c0c"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则解释第12号——关于关键管理人员服务的提供方与接受方是否为关联方(2017年版).docx"
+    ],
+    "bytes": 2989,
+    "sha256": "c59e0cbbec7bf5906ef58081a7257ef99f67f8c862190bae1613c8cd15d58d99",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会〔2017〕19号",
+    "issue_date": "2017-06-12",
+    "issue_date_literal": "2017年6月12日",
+    "version_basis_url": "https://kjs.mof.gov.cn/zhengcefabu/201706/t20170621_2628439.htm"
+  },
+  {
+    "kind": "解释",
+    "number": 13,
+    "year": 2019,
+    "name": "企业会计准则解释第13号",
+    "url": "https://kjs.mof.gov.cn/zhengcefabu/201912/t20191213_3441493.htm",
+    "status": "各项施行及适用关系见README解释表",
+    "path": "解释/企业会计准则解释第13号(2019年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zhengcefabu/201912/t20191213_3441493.htm",
+        "source_path": "核验/网页/989d740dfb20dac5.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "关于印发《企业会计准则解释第13号》的通知",
+        "chars": 219,
+        "text_sha256": "04ccaaee924ebb9dd6f5bd4fbce5878f7a38993a28a6094e425b2ca92043cafb"
+      },
+      {
+        "type": "pdf",
+        "source_path": "附件/企业会计准则解释第13号(2019年版).pdf",
+        "extracted_path": "核验/提取文本/a498e431d5c09477.txt",
+        "pages": 5,
+        "removed_page_numbers": [
+          {
+            "page": 1,
+            "text": "1"
+          },
+          {
+            "page": 2,
+            "text": "2"
+          },
+          {
+            "page": 3,
+            "text": "3"
+          },
+          {
+            "page": 4,
+            "text": "4"
+          },
+          {
+            "page": 5,
+            "text": "5"
+          }
+        ],
+        "reading_order_correction": null,
+        "chars": 2141,
+        "text_sha256": "285c5d75f6543373a3234210655128b0494832bd2791558c4531c7900d80aaa6"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则解释第13号(2019年版).pdf"
+    ],
+    "bytes": 7358,
+    "sha256": "1851e80baee08566cbab56ef64b12526689a4272a24d2fd1ffe5c8872d2453b8",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会〔2019〕21号",
+    "issue_date": "2019-12-10",
+    "issue_date_literal": "2019年12月10日",
+    "version_basis_url": "https://kjs.mof.gov.cn/zhengcefabu/201912/t20191213_3441493.htm"
+  },
+  {
+    "kind": "解释",
+    "number": 14,
+    "year": 2021,
+    "name": "企业会计准则解释第14号",
+    "url": "https://kjs.mof.gov.cn/zhengcefabu/202102/t20210202_3653110.htm",
+    "status": "各项施行及适用关系见README解释表",
+    "path": "解释/企业会计准则解释第14号(2021年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zhengcefabu/202102/t20210202_3653110.htm",
+        "source_path": "核验/网页/894ab333ef80064c.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "关于印发《企业会计准则解释第14号》的通知",
+        "chars": 215,
+        "text_sha256": "85cf79020c374cae5935f2a17033a6831cae3272c6e4db1ab8643cb58529cb8f"
+      },
+      {
+        "type": "pdf",
+        "source_path": "附件/企业会计准则解释第14号(2021年版).pdf",
+        "extracted_path": "核验/提取文本/e53b3e2f876db0fe.txt",
+        "pages": 10,
+        "removed_page_numbers": [
+          {
+            "page": 1,
+            "text": "1"
+          },
+          {
+            "page": 2,
+            "text": "2"
+          },
+          {
+            "page": 3,
+            "text": "3"
+          },
+          {
+            "page": 4,
+            "text": "4"
+          },
+          {
+            "page": 5,
+            "text": "5"
+          },
+          {
+            "page": 6,
+            "text": "6"
+          },
+          {
+            "page": 7,
+            "text": "7"
+          },
+          {
+            "page": 8,
+            "text": "8"
+          },
+          {
+            "page": 9,
+            "text": "9"
+          },
+          {
+            "page": 10,
+            "text": "10"
+          }
+        ],
+        "reading_order_correction": null,
+        "chars": 4295,
+        "text_sha256": "cb5bcb840c19e9279185bf229b8af98e7ac807b033df6a92fbfd11a59d3a01f8"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则解释第14号(2021年版).pdf"
+    ],
+    "bytes": 13662,
+    "sha256": "a74291d7dc5935b281706b7597cc56a61f221722effa09072c977e2f1f212d94",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会〔2021〕1号",
+    "issue_date": "2021-01-26",
+    "issue_date_literal": "2021年1月26日",
+    "version_basis_url": "https://kjs.mof.gov.cn/zhengcefabu/202102/t20210202_3653110.htm"
+  },
+  {
+    "kind": "解释",
+    "number": 15,
+    "year": 2021,
+    "name": "企业会计准则解释第15号",
+    "url": "https://kjs.mof.gov.cn/zhengcefabu/202112/t20211231_3779983.htm",
+    "status": "各项施行及适用关系见README解释表",
+    "path": "解释/企业会计准则解释第15号(2021年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zhengcefabu/202112/t20211231_3779983.htm",
+        "source_path": "核验/网页/53fc29b6289bb203.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "关于印发《企业会计准则解释第15号》的通知",
+        "chars": 217,
+        "text_sha256": "8c411c4e28406f61f8ca57fde75c7c2c8004b0ef1531c84b93bfa2f0b51cce21"
+      },
+      {
+        "type": "pdf",
+        "source_path": "附件/企业会计准则解释第15号(2021年版).pdf",
+        "extracted_path": "核验/提取文本/9880098ad6cf2424.txt",
+        "pages": 6,
+        "removed_page_numbers": [
+          {
+            "page": 1,
+            "text": "1"
+          },
+          {
+            "page": 2,
+            "text": "2"
+          },
+          {
+            "page": 3,
+            "text": "3"
+          },
+          {
+            "page": 4,
+            "text": "4"
+          },
+          {
+            "page": 5,
+            "text": "5"
+          },
+          {
+            "page": 6,
+            "text": "6"
+          }
+        ],
+        "reading_order_correction": null,
+        "chars": 2467,
+        "text_sha256": "3f801797efa52991de976ac6e6699a3cf99688ce9688b351ff7248b31d646bd9"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则解释第15号(2021年版).pdf"
+    ],
+    "bytes": 8456,
+    "sha256": "4d58db67cb0a867de81b82cc37c109afaae4032f4470f1a6b9c823f246d7fb3b",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会〔2021〕35号",
+    "issue_date": "2021-12-30",
+    "issue_date_literal": "2021年12月30日",
+    "version_basis_url": "https://kjs.mof.gov.cn/zhengcefabu/202112/t20211231_3779983.htm"
+  },
+  {
+    "kind": "解释",
+    "number": 16,
+    "year": 2022,
+    "name": "企业会计准则解释第16号",
+    "url": "https://kjs.mof.gov.cn/gongzuotongzhi/202212/t20221212_3857395.htm",
+    "status": "各项施行及适用关系见README解释表",
+    "path": "解释/企业会计准则解释第16号(2022年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/gongzuotongzhi/202212/t20221212_3857395.htm",
+        "source_path": "核验/网页/cbf8c7660f350725.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "关于印发《企业会计准则解释第16号》的通知",
+        "chars": 224,
+        "text_sha256": "dfd0a3d6ab715986483afe30017583bded8305e638454071e98233087ef10d36"
+      },
+      {
+        "type": "pdf",
+        "source_path": "附件/企业会计准则解释第16号(2022年版).pdf",
+        "extracted_path": "核验/提取文本/ecad4aa2b3a033a2.txt",
+        "pages": 5,
+        "removed_page_numbers": [
+          {
+            "page": 1,
+            "text": "1"
+          },
+          {
+            "page": 2,
+            "text": "2"
+          },
+          {
+            "page": 3,
+            "text": "3"
+          },
+          {
+            "page": 4,
+            "text": "4"
+          },
+          {
+            "page": 5,
+            "text": "5"
+          }
+        ],
+        "reading_order_correction": {
+          "page": 1,
+          "reason": "第1页因标点基线差异造成布局提取顺序错误, 已对照PDF版面和原始内容流顺序校正",
+          "before": "           ，不适用《企业会计准则第 18 号\n称适用本解释的单项交易）",
+          "after": "称适用本解释的单项交易），不适用《企业会计准则第 18 号"
+        },
+        "chars": 2051,
+        "text_sha256": "8aa4f283f6e20c79befc51fab7ff1f4174a72eec58e93481eb11528d37c2b2dc"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则解释第16号(2022年版).pdf"
+    ],
+    "bytes": 7181,
+    "sha256": "b79f45cd540e849caeaab270c6c0f4e08d7a54f5c26e3b6fccc33f51a991d711",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会〔2022〕31号",
+    "issue_date": "2022-11-30",
+    "issue_date_literal": "2022年11月30日",
+    "version_basis_url": "https://kjs.mof.gov.cn/gongzuotongzhi/202212/t20221212_3857395.htm"
+  },
+  {
+    "kind": "解释",
+    "number": 17,
+    "year": 2023,
+    "name": "企业会计准则解释第17号",
+    "url": "https://kjs.mof.gov.cn/zhengcefabu/202311/t20231109_3915491.htm",
+    "status": "各项施行及适用关系见README解释表",
+    "path": "解释/企业会计准则解释第17号(2023年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zhengcefabu/202311/t20231109_3915491.htm",
+        "source_path": "核验/网页/a8a7282815467c7d.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "关于印发《企业会计准则解释第17号》的通知",
+        "chars": 224,
+        "text_sha256": "f5d01694d0a434ea59a875a15ce60a3d7269232b49246f14a519b8a724447457"
+      },
+      {
+        "type": "pdf",
+        "source_path": "附件/企业会计准则解释第17号(2023年版).pdf",
+        "extracted_path": "核验/提取文本/f81d3ce476be3100.txt",
+        "pages": 6,
+        "removed_page_numbers": [
+          {
+            "page": 1,
+            "text": "1"
+          },
+          {
+            "page": 2,
+            "text": "2"
+          },
+          {
+            "page": 3,
+            "text": "3"
+          },
+          {
+            "page": 4,
+            "text": "4"
+          },
+          {
+            "page": 5,
+            "text": "5"
+          },
+          {
+            "page": 6,
+            "text": "6"
+          }
+        ],
+        "reading_order_correction": null,
+        "chars": 2624,
+        "text_sha256": "4ab3cd19ccbd101aa599fc9c7a3d5a199571dd7c793632dbdc1e073f7cf8014b"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则解释第17号(2023年版).pdf"
+    ],
+    "bytes": 8909,
+    "sha256": "b4695354c1b5ddb40ddf6a1f2884299920b8e46448f3bf51aa25b9c9f64f969f",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会〔2023〕21号",
+    "issue_date": "2023-10-25",
+    "issue_date_literal": "2023年10月25日",
+    "version_basis_url": "https://kjs.mof.gov.cn/zhengcefabu/202311/t20231109_3915491.htm"
+  },
+  {
+    "kind": "解释",
+    "number": 18,
+    "year": 2024,
+    "name": "企业会计准则解释第18号",
+    "url": "https://kjs.mof.gov.cn/zhengcefabu/202412/t20241223_3950344.htm",
+    "status": "各项施行及适用关系见README解释表",
+    "path": "解释/企业会计准则解释第18号(2024年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zhengcefabu/202412/t20241223_3950344.htm",
+        "source_path": "核验/网页/1ea0bba290a2654b.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "关于印发《企业会计准则解释第18号》的通知",
+        "chars": 222,
+        "text_sha256": "a9626cba15db5f97fc9f87878df90c7a8ecaff7ab187e8f0a2332af80ef0742d"
+      },
+      {
+        "type": "pdf",
+        "source_path": "附件/企业会计准则解释第18号(2024年版).pdf",
+        "extracted_path": "核验/提取文本/c7c6279b70e3b74c.txt",
+        "pages": 3,
+        "removed_page_numbers": [
+          {
+            "page": 1,
+            "text": "1"
+          },
+          {
+            "page": 2,
+            "text": "2"
+          },
+          {
+            "page": 3,
+            "text": "3"
+          }
+        ],
+        "reading_order_correction": null,
+        "chars": 1167,
+        "text_sha256": "09f4f37f5e1eeb36b42bbfd5910ae5e3b8edffef3bef5fe019b41bd8c7ec5029"
+      }
+    ],
+    "attachments": [
+      "附件/企业会计准则解释第18号(2024年版).pdf"
+    ],
+    "bytes": 4493,
+    "sha256": "1a4a0bcb192389e89d06b5cabe5dc666b69de0d38ccb41a0afe8b020434f8a18",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会〔2024〕24号",
+    "issue_date": "2024-12-06",
+    "issue_date_literal": "2024年12月6日",
+    "version_basis_url": "https://kjs.mof.gov.cn/zhengcefabu/202412/t20241223_3950344.htm"
+  },
+  {
+    "kind": "解释",
+    "number": 19,
+    "year": 2025,
+    "name": "企业会计准则解释第19号",
+    "url": "https://kjs.mof.gov.cn/zhengcefabu/202512/t20251218_3979556.htm",
+    "status": "各项施行及适用关系见README解释表",
+    "path": "解释/企业会计准则解释第19号(2025年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zhengcefabu/202512/t20251218_3979556.htm",
+        "source_path": "核验/网页/63535df9564fb1d5.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "关于印发《企业会计准则解释第19号》的通知",
+        "chars": 4457,
+        "text_sha256": "b913aef0361555b9ce75256c185613cbeeadcaffdfa7cdf1ade4b70005afe16d"
+      }
+    ],
+    "attachments": [],
+    "bytes": 13623,
+    "sha256": "f124759d95cd6448f2cfd79259d5d9b40fde11f16282164091d736234b33cd7e",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会〔2025〕32号",
+    "issue_date": "2025-12-05",
+    "issue_date_literal": "2025年12月5日",
+    "version_basis_url": "https://kjs.mof.gov.cn/zhengcefabu/202512/t20251218_3979556.htm"
+  },
+  {
+    "kind": "解释",
+    "number": 20,
+    "year": 2026,
+    "name": "企业会计准则解释第20号",
+    "url": "https://kjs.mof.gov.cn/zhengcefabu/202606/t20260615_3991686.htm",
+    "status": "各项施行及适用关系见README解释表",
+    "path": "解释/企业会计准则解释第20号(2026年版).md",
+    "sources": [
+      {
+        "type": "html",
+        "url": "https://kjs.mof.gov.cn/zhengcefabu/202606/t20260615_3991686.htm",
+        "source_path": "核验/网页/882246ffb672e9ab.html",
+        "encoding": "utf-8",
+        "selector": ".TRS_Editor",
+        "title": "关于印发《企业会计准则解释第20号》的通知",
+        "chars": 4383,
+        "text_sha256": "ac4c181e76b826fa9b9012376e52ac1b142e4c04732eb5f6efc3ab5a477db2b5"
+      }
+    ],
+    "attachments": [],
+    "bytes": 13439,
+    "sha256": "074964dd9c7decf5dd616a2baa4f176698c5aef4e3fbcdc4da8b0aa7d2de5e82",
+    "核验状态": "逐字核对一致",
+    "document_number": "财会〔2026〕7号",
+    "issue_date": "2026-06-04",
+    "issue_date_literal": "2026年6月4日",
+    "version_basis_url": "https://kjs.mof.gov.cn/zhengcefabu/202606/t20260615_3991686.htm"
+  }
+]

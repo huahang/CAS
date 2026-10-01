@@ -1,0 +1,566 @@
+{
+  "核验日期": "2026-10-01",
+  "方法": "去除来源注释、Markdown标记、HTML标签及Unicode排版空白后, 按Unicode码点逐字比较; 不归一化文字、数字或标点",
+  "正文": [
+    {
+      "path": "准则/企业会计准则——基本准则(2006年版).md",
+      "characters": 3811,
+      "source_sha256": "1deb290eb8f63111be39c1d4a7a90ff857e6f277f148e5542a382ac64193fef7",
+      "mirror_sha256": "1deb290eb8f63111be39c1d4a7a90ff857e6f277f148e5542a382ac64193fef7",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则——基本准则(2014年版).md",
+      "characters": 4069,
+      "source_sha256": "b641d929288608b2e5adb34bb7b605ebf384e23fad30e5ea9fe72b5ca1240965",
+      "mirror_sha256": "b641d929288608b2e5adb34bb7b605ebf384e23fad30e5ea9fe72b5ca1240965",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第1号——存货(2006年版).md",
+      "characters": 1997,
+      "source_sha256": "e0df6bb14e3a8795be68188ab739b11cfdba6bc5f0d5a5c0f54c7eaa51a1235e",
+      "mirror_sha256": "e0df6bb14e3a8795be68188ab739b11cfdba6bc5f0d5a5c0f54c7eaa51a1235e",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第2号——长期股权投资(2006年版).md",
+      "characters": 2940,
+      "source_sha256": "0f5f4ab150e0d5c2101c7a3d94f50bd0fe8279db412862c49645e2cd18ef3aed",
+      "mirror_sha256": "0f5f4ab150e0d5c2101c7a3d94f50bd0fe8279db412862c49645e2cd18ef3aed",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第2号——长期股权投资(2014年版).md",
+      "characters": 4489,
+      "source_sha256": "684c0b62dae349c4d412f249f1df3f555dcc69dc39a3523403c6cb541f4bda4a",
+      "mirror_sha256": "684c0b62dae349c4d412f249f1df3f555dcc69dc39a3523403c6cb541f4bda4a",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第3号——投资性房地产(2006年版).md",
+      "characters": 1833,
+      "source_sha256": "573fb21452758708e548f79c421fc3b81f383de463774c4aac53cac80974e4cc",
+      "mirror_sha256": "573fb21452758708e548f79c421fc3b81f383de463774c4aac53cac80974e4cc",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第4号——固定资产(2006年版).md",
+      "characters": 2296,
+      "source_sha256": "c0feb5afb8bd96a80a65fb91aa34d8dabcb53722b077060d505a8d6412742214",
+      "mirror_sha256": "c0feb5afb8bd96a80a65fb91aa34d8dabcb53722b077060d505a8d6412742214",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第5号——生物资产(2006年版).md",
+      "characters": 3144,
+      "source_sha256": "baef590df8acba85ff8c8ff921ec9cb31afcc658de74683e793691f9c1914305",
+      "mirror_sha256": "baef590df8acba85ff8c8ff921ec9cb31afcc658de74683e793691f9c1914305",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第6号——无形资产(2006年版).md",
+      "characters": 2539,
+      "source_sha256": "7ce88a8f09b9d682a4b7104dc502fea605644e0b3d7d2223d41be017e65bddd2",
+      "mirror_sha256": "7ce88a8f09b9d682a4b7104dc502fea605644e0b3d7d2223d41be017e65bddd2",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第7号——非货币性资产交换(2006年版).md",
+      "characters": 1375,
+      "source_sha256": "becc2d3dc66ddd400fc8c273e928289956551adbe7d00e0627384e3c1a3c6a33",
+      "mirror_sha256": "becc2d3dc66ddd400fc8c273e928289956551adbe7d00e0627384e3c1a3c6a33",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第7号——非货币性资产交换(2019年版).md",
+      "characters": 3290,
+      "source_sha256": "483b159e2b55c640353379c6e74504a8e3699d7fbaeed8023d1a733831ba8978",
+      "mirror_sha256": "483b159e2b55c640353379c6e74504a8e3699d7fbaeed8023d1a733831ba8978",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第8号——资产减值(2006年版).md",
+      "characters": 6669,
+      "source_sha256": "b8305dbd02efea439f6aed80e14fb901638f69f3663c3a0bb6069a3d59e5a89f",
+      "mirror_sha256": "b8305dbd02efea439f6aed80e14fb901638f69f3663c3a0bb6069a3d59e5a89f",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第9号——职工薪酬(2006年版).md",
+      "characters": 1145,
+      "source_sha256": "d4996a945ce546d48a37817caafa4fa597514c7bac40c3b5154a48b769b3141e",
+      "mirror_sha256": "d4996a945ce546d48a37817caafa4fa597514c7bac40c3b5154a48b769b3141e",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第9号——职工薪酬(2014年版).md",
+      "characters": 5050,
+      "source_sha256": "23fb3fb22eb7b9503c0c6c5cfb24ce4872d5af67bd5ee4e2d0a72832dd5c0a88",
+      "mirror_sha256": "23fb3fb22eb7b9503c0c6c5cfb24ce4872d5af67bd5ee4e2d0a72832dd5c0a88",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第10号——企业年金基金(2006年版).md",
+      "characters": 2410,
+      "source_sha256": "5a128424a1a7c835fca6c2786c138e30a1db32feb00419039a80376b0073074c",
+      "mirror_sha256": "5a128424a1a7c835fca6c2786c138e30a1db32feb00419039a80376b0073074c",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第11号——股份支付(2006年版).md",
+      "characters": 1816,
+      "source_sha256": "de110b308d5bf9a614eccfd2f4c5b1d6768be01d0e3d5d7102bcf1673e370995",
+      "mirror_sha256": "de110b308d5bf9a614eccfd2f4c5b1d6768be01d0e3d5d7102bcf1673e370995",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第12号——债务重组(2006年版).md",
+      "characters": 1731,
+      "source_sha256": "d07b14c9be91389d2c2e3b6d1733195d7c3dbf2acae7094d9384a13033897e7a",
+      "mirror_sha256": "d07b14c9be91389d2c2e3b6d1733195d7c3dbf2acae7094d9384a13033897e7a",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第12号——债务重组(2019年版).md",
+      "characters": 2325,
+      "source_sha256": "6ea44fdbd7f96bbef3777290437d9660618dc10e1f3171f6a125ae452532d1c4",
+      "mirror_sha256": "6ea44fdbd7f96bbef3777290437d9660618dc10e1f3171f6a125ae452532d1c4",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第13号——或有事项(2006年版).md",
+      "characters": 1665,
+      "source_sha256": "c7b76cbc3a79691725bb65d670df3284090e1b7531fae52bddad0459edb59275",
+      "mirror_sha256": "c7b76cbc3a79691725bb65d670df3284090e1b7531fae52bddad0459edb59275",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第14号——收入(2006年版).md",
+      "characters": 2035,
+      "source_sha256": "282478030e5a06ade6f91c7344bbe8f8261ebbe5e1b1467495dab99d33935cc2",
+      "mirror_sha256": "282478030e5a06ade6f91c7344bbe8f8261ebbe5e1b1467495dab99d33935cc2",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第14号——收入(2017年版).md",
+      "characters": 10654,
+      "source_sha256": "ab958a443a2da64e1d2a48563a1243295a2496dc18f1772314b25784295aec2c",
+      "mirror_sha256": "ab958a443a2da64e1d2a48563a1243295a2496dc18f1772314b25784295aec2c",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第15号——建造合同(2006年版).md",
+      "characters": 2403,
+      "source_sha256": "8a83a0aa774b49e0282ddb4a26f9ce088010972c3cbdfb4ae7b14041305861d2",
+      "mirror_sha256": "8a83a0aa774b49e0282ddb4a26f9ce088010972c3cbdfb4ae7b14041305861d2",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第16号——政府补助(2006年版).md",
+      "characters": 787,
+      "source_sha256": "36ae45597ff46f7305e16a5659bc0c56aae13e13796fc7d92804e34b4ceda834",
+      "mirror_sha256": "36ae45597ff46f7305e16a5659bc0c56aae13e13796fc7d92804e34b4ceda834",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第16号——政府补助(2017年版).md",
+      "characters": 1942,
+      "source_sha256": "4ebfb28c2c04267ec1cf12a8aa39e8c0ab6a65ea4410ca9f2c28f21707bf1ac4",
+      "mirror_sha256": "4ebfb28c2c04267ec1cf12a8aa39e8c0ab6a65ea4410ca9f2c28f21707bf1ac4",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第17号——借款费用(2006年版).md",
+      "characters": 2009,
+      "source_sha256": "e1b250d1e59637919ce26c63283920efad0fddc99829a4b79cc01a23990cd37a",
+      "mirror_sha256": "e1b250d1e59637919ce26c63283920efad0fddc99829a4b79cc01a23990cd37a",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第18号——所得税(2006年版).md",
+      "characters": 2317,
+      "source_sha256": "1d9e230dbf9eb1c70b9694b020b3e97abfbd7a44bf5ecc6d549d0fa3c5d25cc8",
+      "mirror_sha256": "1d9e230dbf9eb1c70b9694b020b3e97abfbd7a44bf5ecc6d549d0fa3c5d25cc8",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第19号——外币折算(2006年版).md",
+      "characters": 1995,
+      "source_sha256": "59640ea7c1ede327673a74a8aae8283fdc0903a611239b6e432ab8cef5d3c6a6",
+      "mirror_sha256": "59640ea7c1ede327673a74a8aae8283fdc0903a611239b6e432ab8cef5d3c6a6",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第20号——企业合并(2006年版).md",
+      "characters": 3299,
+      "source_sha256": "e2d9f8ad1c5c5f989bef7aae2f9b544489d97f5c29a2140a3a5535db87c77b4e",
+      "mirror_sha256": "e2d9f8ad1c5c5f989bef7aae2f9b544489d97f5c29a2140a3a5535db87c77b4e",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第21号——租赁(2006年版).md",
+      "characters": 3570,
+      "source_sha256": "3c2ad32d879300f662ea45830802eb33244ea8af4c3a4a83b9d81aeea3be5efa",
+      "mirror_sha256": "3c2ad32d879300f662ea45830802eb33244ea8af4c3a4a83b9d81aeea3be5efa",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第21号——租赁(2018年版).md",
+      "characters": 11471,
+      "source_sha256": "1dcf2a2b58ec6d27e78246d0ccd806f17d8cb2e1e9c42c38413ed60952b833fa",
+      "mirror_sha256": "1dcf2a2b58ec6d27e78246d0ccd806f17d8cb2e1e9c42c38413ed60952b833fa",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第22号——金融工具确认和计量(2006年版).md",
+      "characters": 11317,
+      "source_sha256": "67f7ad6b395fec35fe207f235f39ce9dcd4f1ab9df70650118609fec7f1d337d",
+      "mirror_sha256": "67f7ad6b395fec35fe207f235f39ce9dcd4f1ab9df70650118609fec7f1d337d",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第22号——金融工具确认和计量(2017年版).md",
+      "characters": 19586,
+      "source_sha256": "1f3607708aaeea1dd8163fd08c26f6780297afac6cfd29bf26410b832782c68a",
+      "mirror_sha256": "1f3607708aaeea1dd8163fd08c26f6780297afac6cfd29bf26410b832782c68a",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第23号——金融资产转移(2006年版).md",
+      "characters": 4525,
+      "source_sha256": "cb46c1529dc4e3b0c927ea2db9fe27ddebfffac5dd59035882e2b4479e9cf90f",
+      "mirror_sha256": "cb46c1529dc4e3b0c927ea2db9fe27ddebfffac5dd59035882e2b4479e9cf90f",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第23号——金融资产转移(2017年版).md",
+      "characters": 7756,
+      "source_sha256": "c0bfcf3942fd96466147f6eecce99a34b0640eb8e44daa8cdb79acd9de511119",
+      "mirror_sha256": "c0bfcf3942fd96466147f6eecce99a34b0640eb8e44daa8cdb79acd9de511119",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第24号——套期保值(2006年版).md",
+      "characters": 5246,
+      "source_sha256": "55f3f0d06964677074449839b02790cb9de85ccd649bbcc3d919dc85f1a64e3e",
+      "mirror_sha256": "55f3f0d06964677074449839b02790cb9de85ccd649bbcc3d919dc85f1a64e3e",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第24号——套期会计(2017年版).md",
+      "characters": 9979,
+      "source_sha256": "1d9920cdbc2c9339cf9436c2fbdf73c351b59aef905cdc3f8f8fa734e7ac69cb",
+      "mirror_sha256": "1d9920cdbc2c9339cf9436c2fbdf73c351b59aef905cdc3f8f8fa734e7ac69cb",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第25号——原保险合同(2006年版).md",
+      "characters": 3173,
+      "source_sha256": "6bbba7dd2bbb15bcd559651af1fdb106ce9c4e2f1b61d8633a3762c87e4d1eec",
+      "mirror_sha256": "6bbba7dd2bbb15bcd559651af1fdb106ce9c4e2f1b61d8633a3762c87e4d1eec",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第25号——保险合同(2020年版).md",
+      "characters": 21810,
+      "source_sha256": "9ee55aaf6fd3fecbcdefcb4d55e3591acb6fa704ce723f42024ffee69ef2d8bd",
+      "mirror_sha256": "9ee55aaf6fd3fecbcdefcb4d55e3591acb6fa704ce723f42024ffee69ef2d8bd",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第26号——再保险合同(2006年版).md",
+      "characters": 2304,
+      "source_sha256": "1937ce13813c553604bd5861a70cfaf52aa7c2cc6e3034d2e040f2e6669c300d",
+      "mirror_sha256": "1937ce13813c553604bd5861a70cfaf52aa7c2cc6e3034d2e040f2e6669c300d",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第27号——石油天然气开采(2006年版).md",
+      "characters": 3472,
+      "source_sha256": "cc3c61f38604ab72af9c4322dcb150feaa5b4d16047f5823df80e85e4176401c",
+      "mirror_sha256": "cc3c61f38604ab72af9c4322dcb150feaa5b4d16047f5823df80e85e4176401c",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第28号——会计政策、会计估计变更和差错更正(2006年版).md",
+      "characters": 1958,
+      "source_sha256": "f44c6894ebeec7488b90ecf569e92d378a8bd64611d0d005c9058c669d434c3c",
+      "mirror_sha256": "f44c6894ebeec7488b90ecf569e92d378a8bd64611d0d005c9058c669d434c3c",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第29号——资产负债表日后事项(2006年版).md",
+      "characters": 1121,
+      "source_sha256": "c64d5dec33436b860dd967343872286feab384ce8be24a9afa2e9e0932a3d784",
+      "mirror_sha256": "c64d5dec33436b860dd967343872286feab384ce8be24a9afa2e9e0932a3d784",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第30号——财务报表列报(2006年版).md",
+      "characters": 3538,
+      "source_sha256": "f26d82914c56a1777bbf7471f073f2a80b9e51c59bde73920323b345d978d656",
+      "mirror_sha256": "f26d82914c56a1777bbf7471f073f2a80b9e51c59bde73920323b345d978d656",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第30号——财务报表列报(2014年版).md",
+      "characters": 6738,
+      "source_sha256": "5aacf6eed29e184c93208744607922756b5171b43a633e777770ee9fa695bd5e",
+      "mirror_sha256": "5aacf6eed29e184c93208744607922756b5171b43a633e777770ee9fa695bd5e",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第30号——财务报表列报(2026年版).md",
+      "characters": 14104,
+      "source_sha256": "fc03ca02cbc384541df76b861b098415bfbd77ed3b128ae8307611638bab2612",
+      "mirror_sha256": "fc03ca02cbc384541df76b861b098415bfbd77ed3b128ae8307611638bab2612",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第31号——现金流量表(2006年版).md",
+      "characters": 2019,
+      "source_sha256": "e0de821a14edf3ea89cb84da3f0528c581c4b8eade3b9c33994502617717894e",
+      "mirror_sha256": "e0de821a14edf3ea89cb84da3f0528c581c4b8eade3b9c33994502617717894e",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第32号——中期财务报告(2006年版).md",
+      "characters": 2413,
+      "source_sha256": "132cd8bed0fe0bbeeb1e8257fea90496ff28c3f39aa2b78ce5b7a9eb6847d9f8",
+      "mirror_sha256": "132cd8bed0fe0bbeeb1e8257fea90496ff28c3f39aa2b78ce5b7a9eb6847d9f8",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第33号——合并财务报表(2006年版).md",
+      "characters": 4491,
+      "source_sha256": "a0670fcdd0637d412b24dff1083c2f9a64e1bf6045a89dfb87f940b3ca6bd073",
+      "mirror_sha256": "a0670fcdd0637d412b24dff1083c2f9a64e1bf6045a89dfb87f940b3ca6bd073",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第33号——合并财务报表(2014年版).md",
+      "characters": 9392,
+      "source_sha256": "4a806893e822efb543f3403a56e2a35eda435beb5181c1b9e6b7713bf9eccf2e",
+      "mirror_sha256": "4a806893e822efb543f3403a56e2a35eda435beb5181c1b9e6b7713bf9eccf2e",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第34号——每股收益(2006年版).md",
+      "characters": 1719,
+      "source_sha256": "9298f9ac4c94454b185c4440e95e3d48fe71d97ac08e4c9edbbeb0838fe2e876",
+      "mirror_sha256": "9298f9ac4c94454b185c4440e95e3d48fe71d97ac08e4c9edbbeb0838fe2e876",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第35号——分部报告(2006年版).md",
+      "characters": 3004,
+      "source_sha256": "4f966a4e51b54e084fd31c7e5333454ce1f2150b7ee16ecc7d3d279d7e3bd8b7",
+      "mirror_sha256": "4f966a4e51b54e084fd31c7e5333454ce1f2150b7ee16ecc7d3d279d7e3bd8b7",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第36号——关联方披露(2006年版).md",
+      "characters": 1554,
+      "source_sha256": "a48cecd7c12f4fad6f148719f06ef3487e3342279b0fa3cf223fc2c2ccab4e0a",
+      "mirror_sha256": "a48cecd7c12f4fad6f148719f06ef3487e3342279b0fa3cf223fc2c2ccab4e0a",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第37号——金融工具列报(2006年版).md",
+      "characters": 6967,
+      "source_sha256": "a1ab3065d459d7d4a8f96e09872ca3196d63c9a5863984eacbb7a7402015ced0",
+      "mirror_sha256": "a1ab3065d459d7d4a8f96e09872ca3196d63c9a5863984eacbb7a7402015ced0",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第37号——金融工具列报(2014年版).md",
+      "characters": 16756,
+      "source_sha256": "2dbbdb4b30967265821e55c94c32a251f767cbae40dd3768813050e656dc3f4a",
+      "mirror_sha256": "2dbbdb4b30967265821e55c94c32a251f767cbae40dd3768813050e656dc3f4a",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第37号——金融工具列报(2017年版).md",
+      "characters": 24074,
+      "source_sha256": "269accc1b97159cd52e3ba28c13a5c645328e330fba6cdf485e96473f8259bf4",
+      "mirror_sha256": "269accc1b97159cd52e3ba28c13a5c645328e330fba6cdf485e96473f8259bf4",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第38号——首次执行企业会计准则(2006年版).md",
+      "characters": 2912,
+      "source_sha256": "d43651d810973c7c889509cfc558fac402c061eb08e03c670db437986f918c73",
+      "mirror_sha256": "d43651d810973c7c889509cfc558fac402c061eb08e03c670db437986f918c73",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第39号——公允价值计量(2014年版).md",
+      "characters": 10059,
+      "source_sha256": "81dd20a436f05a5ced24d1d40294b9c0d2e4fb3f2993bf651fd937237759dc00",
+      "mirror_sha256": "81dd20a436f05a5ced24d1d40294b9c0d2e4fb3f2993bf651fd937237759dc00",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第40号——合营安排(2014年版).md",
+      "characters": 2630,
+      "source_sha256": "ec5b654d4249f47890bf2d662de7af89a033976c50d72826a9d0bcd003e0a8e2",
+      "mirror_sha256": "ec5b654d4249f47890bf2d662de7af89a033976c50d72826a9d0bcd003e0a8e2",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第41号——在其他主体中权益的披露(2014年版).md",
+      "characters": 4708,
+      "source_sha256": "a3ffb2896123674845a6cecc5eeb0ae4b3095ad250973e3b3e46a63ed209d65f",
+      "mirror_sha256": "a3ffb2896123674845a6cecc5eeb0ae4b3095ad250973e3b3e46a63ed209d65f",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "准则/企业会计准则第42号——持有待售的非流动资产、处置组和终止经营(2017年版).md",
+      "characters": 4518,
+      "source_sha256": "d82069ecab601162458930cb5c2ea0ac840ae7750d35383c4928a7641077df7f",
+      "mirror_sha256": "d82069ecab601162458930cb5c2ea0ac840ae7750d35383c4928a7641077df7f",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "解释/企业会计准则解释第1号(2007年版).md",
+      "characters": 3963,
+      "source_sha256": "abf3c2cc912f5b7dc9601f8bf2b1f9364f28eb3dec11f5057183f49fb39262c9",
+      "mirror_sha256": "abf3c2cc912f5b7dc9601f8bf2b1f9364f28eb3dec11f5057183f49fb39262c9",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "解释/企业会计准则解释第2号(2008年版).md",
+      "characters": 2877,
+      "source_sha256": "a012b5d55331a59301a492b3c9d40532c9c351a9efce4e233e9dc08fb5d652d8",
+      "mirror_sha256": "a012b5d55331a59301a492b3c9d40532c9c351a9efce4e233e9dc08fb5d652d8",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "解释/企业会计准则解释第3号(2009年版).md",
+      "characters": 3517,
+      "source_sha256": "5846c634ad2b8c50f71be5d661531c5dc700a7650f0a74f89ab9ce575425d933",
+      "mirror_sha256": "5846c634ad2b8c50f71be5d661531c5dc700a7650f0a74f89ab9ce575425d933",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "解释/企业会计准则解释第4号(2010年版).md",
+      "characters": 3499,
+      "source_sha256": "cba0a64b3e7649aad692da23fccdcd2ef68f99ee9510ba29288f5947b4e991a3",
+      "mirror_sha256": "cba0a64b3e7649aad692da23fccdcd2ef68f99ee9510ba29288f5947b4e991a3",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "解释/企业会计准则解释第5号(2012年版).md",
+      "characters": 3045,
+      "source_sha256": "a10feee8bf15c5a5b3c65b112fa4b3198cec4cd4c474ce1e31a1bfd49419434d",
+      "mirror_sha256": "a10feee8bf15c5a5b3c65b112fa4b3198cec4cd4c474ce1e31a1bfd49419434d",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "解释/企业会计准则解释第6号(2014年版).md",
+      "characters": 1084,
+      "source_sha256": "55230e65ac127d29bc1dfee39df48d62bd49f4f949612db6ae4a4cca1f5a602a",
+      "mirror_sha256": "55230e65ac127d29bc1dfee39df48d62bd49f4f949612db6ae4a4cca1f5a602a",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "解释/企业会计准则解释第7号(2015年版).md",
+      "characters": 5183,
+      "source_sha256": "5a1a7e931f154a0703d58db05e6c184d5692d3796fd7c9b555d1a4c1b06b3aa4",
+      "mirror_sha256": "5a1a7e931f154a0703d58db05e6c184d5692d3796fd7c9b555d1a4c1b06b3aa4",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "解释/企业会计准则解释第8号(2015年版).md",
+      "characters": 2783,
+      "source_sha256": "f4ae8f630b72868df14b6427155625f60be51c7e5f6cd0fa36670f364c272fa1",
+      "mirror_sha256": "f4ae8f630b72868df14b6427155625f60be51c7e5f6cd0fa36670f364c272fa1",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "解释/企业会计准则解释第9号——关于权益法下有关投资净损失的会计处理(2017年版).md",
+      "characters": 1202,
+      "source_sha256": "ff747a5b7eb8d535901cbe797cc50813b198b3b4624a9a3c414e8ea536bab839",
+      "mirror_sha256": "ff747a5b7eb8d535901cbe797cc50813b198b3b4624a9a3c414e8ea536bab839",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "解释/企业会计准则解释第10号——关于以使用固定资产产生的收入为基础的折旧方法(2017年版).md",
+      "characters": 799,
+      "source_sha256": "a52ef59b204bb8cd375c7308803ea3170642676e0347c43d9e8716380142f7e6",
+      "mirror_sha256": "a52ef59b204bb8cd375c7308803ea3170642676e0347c43d9e8716380142f7e6",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "解释/企业会计准则解释第11号——关于以使用无形资产产生的收入为基础的摊销方法(2017年版).md",
+      "characters": 1055,
+      "source_sha256": "c8bb77ada35f8e523acf30c361f3364f837ac1ea7c8f368ee6b4f7d3dc02fe37",
+      "mirror_sha256": "c8bb77ada35f8e523acf30c361f3364f837ac1ea7c8f368ee6b4f7d3dc02fe37",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "解释/企业会计准则解释第12号——关于关键管理人员服务的提供方与接受方是否为关联方(2017年版).md",
+      "characters": 858,
+      "source_sha256": "8a2568226ed5812cea0f9358cca6470a4984b5099cd7edb055c72316b9fa641a",
+      "mirror_sha256": "8a2568226ed5812cea0f9358cca6470a4984b5099cd7edb055c72316b9fa641a",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "解释/企业会计准则解释第13号(2019年版).md",
+      "characters": 2360,
+      "source_sha256": "ddbac014405d01354eb175c13f1735c996fa2962db27bbba59bba04354696c6a",
+      "mirror_sha256": "ddbac014405d01354eb175c13f1735c996fa2962db27bbba59bba04354696c6a",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "解释/企业会计准则解释第14号(2021年版).md",
+      "characters": 4510,
+      "source_sha256": "bf7acdb4178d5659668ce578f8ef2ae9de62180884d587da518252db68a2a875",
+      "mirror_sha256": "bf7acdb4178d5659668ce578f8ef2ae9de62180884d587da518252db68a2a875",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "解释/企业会计准则解释第15号(2021年版).md",
+      "characters": 2684,
+      "source_sha256": "9410df82d2e64787714118fc5bf30c6816980ec3e8af9b3dd7b795d402a89b1d",
+      "mirror_sha256": "9410df82d2e64787714118fc5bf30c6816980ec3e8af9b3dd7b795d402a89b1d",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "解释/企业会计准则解释第16号(2022年版).md",
+      "characters": 2275,
+      "source_sha256": "1736118bbede2347caf0dacca3584a131ac89ce779465f0d1fd9e72ec3fbe0e5",
+      "mirror_sha256": "1736118bbede2347caf0dacca3584a131ac89ce779465f0d1fd9e72ec3fbe0e5",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "解释/企业会计准则解释第17号(2023年版).md",
+      "characters": 2848,
+      "source_sha256": "bfd37693de1c1c4a83e3e8ed55154f66c797955f78e057cd74d3374a8500fedb",
+      "mirror_sha256": "bfd37693de1c1c4a83e3e8ed55154f66c797955f78e057cd74d3374a8500fedb",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "解释/企业会计准则解释第18号(2024年版).md",
+      "characters": 1389,
+      "source_sha256": "89bc76b23644bd885f68cf6495bcc05c4e3d970a3b662e02f28bfba5f0f0d062",
+      "mirror_sha256": "89bc76b23644bd885f68cf6495bcc05c4e3d970a3b662e02f28bfba5f0f0d062",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "解释/企业会计准则解释第19号(2025年版).md",
+      "characters": 4457,
+      "source_sha256": "b913aef0361555b9ce75256c185613cbeeadcaffdfa7cdf1ade4b70005afe16d",
+      "mirror_sha256": "b913aef0361555b9ce75256c185613cbeeadcaffdfa7cdf1ade4b70005afe16d",
+      "逐字比较": "一致"
+    },
+    {
+      "path": "解释/企业会计准则解释第20号(2026年版).md",
+      "characters": 4383,
+      "source_sha256": "ac4c181e76b826fa9b9012376e52ac1b142e4c04732eb5f6efc3ab5a477db2b5",
+      "mirror_sha256": "ac4c181e76b826fa9b9012376e52ac1b142e4c04732eb5f6efc3ab5a477db2b5",
+      "逐字比较": "一致"
+    }
+  ]
+}
